@@ -1,0 +1,21 @@
+﻿DIV#cdCnt {
+	PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 800px; PADDING-RIGHT: 0px; FLOAT: none; PADDING-TOP: 0px
+}
+DIV#cdCntTop {
+	BACKGROUND-IMAGE: url('../Images/glass_top3.png'); BACKGROUND-REPEAT: no-repeat; FLOAT: none; HEIGHT: 31px
+}
+DIV#cdTitle {
+	BACKGROUND-IMAGE: url('../Images/glass_middle3.png'); TEXT-ALIGN: left; PADDING-LEFT: 30px; BACKGROUND-REPEAT: repeat-y; FONT-FAMILY: Segoe UI, Arial, Verdana; COLOR: #333333; FONT-SIZE: 22px
+}
+DIV#cdCntMid {
+	BACKGROUND-IMAGE: url('../Images/glass_middle3.png'); PADDING-BOTTOM: 0px; MIN-HEIGHT: 400px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-REPEAT: repeat-y; HEIGHT: auto !important; PADDING-TOP: 0px
+}
+DIV#cdCntBot {
+	BACKGROUND-IMAGE: url('../Images/glass_bottom3.png'); BACKGROUND-REPEAT: no-repeat; HEIGHT: 38px
+}
+#cdArticleBody {
+	WIDTH: 785px; BACKGROUND: url('../Images/glass_middle3.png') repeat-y; FLOAT: none; MARGIN-LEFT: auto; OVERFLOW: hidden; MARGIN-RIGHT: auto
+}
+.cntArticleBody {
+	WIDTH: 475px; FLOAT: none; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}

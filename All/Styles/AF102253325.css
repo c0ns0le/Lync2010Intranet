@@ -1,0 +1,3024 @@
+.pmgPage * {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: normal; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalPage * {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: normal; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalNoBullets {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalNoBullets LI {
+	LIST-STYLE-TYPE: none
+}
+.pmgGlobalPad00002000 {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalPad00001000 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalPad10000000 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.pmgGlobalLegacyH1 {
+	FONT-FAMILY: Segoe UI, Arial, Verdana; COLOR: #454545; FONT-SIZE: 2.67em; FONT-WEIGHT: normal
+}
+.pmgGlobalLegacyBlurbMed {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 1.33em; PADDING-TOP: 0px
+}
+.pmgGlobalLegacyBlurbSm {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 1.1em; PADDING-TOP: 0px
+}
+.pmgGlobalLegacyContainer {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalLegacySmlNwsbtTitle {
+	FONT-SIZE: 1.2em; FONT-WEIGHT: bold
+}
+.pmgGlobalLegacyFootnote {
+	PADDING-BOTTOM: 0px; FONT-STYLE: italic; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #454545; FONT-SIZE: 0.9em; PADDING-TOP: 20px
+}
+.pmgGlobalTextBold {
+	FONT-WEIGHT: bold
+}
+.pmgGlobalTextNoBold {
+	FONT-WEIGHT: normal
+}
+.pmgGlobalAbsolutePosition {
+	POSITION: absolute
+}
+.pmgGlobalOfficeAnywhere {
+	TEXT-INDENT: 32px; WIDTH: 822px; MARGIN-BOTTOM: 40px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/845/863/ZA102395432.png) repeat-y center top; FONT-SIZE: 14px
+}
+.pmgGlobalOfficeAnywhere .pmgGlobalTextBold {
+	COLOR: #414042
+}
+SPAN.pmgGlobal8MarginRight {
+	MARGIN-RIGHT: 8px
+}
+.pmgGlobal414042 {
+	COLOR: #414042
+}
+.pmgGlobalBigBox {
+	WIDTH: 820px; DISPLAY: none
+}
+.pmgGlobalBigBoxHead {
+	WIDTH: 820px; HEIGHT: 10px
+}
+.pmgGlobalBigBoxCont P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalBoldText {
+	FONT-WEIGHT: bold
+}
+.pmgGlobalFloatLeft {
+	FLOAT: left
+}
+.pmgGlobalMSAnswers {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #ffffff; MARGIN: 10px 5px 0px 0px; PADDING-LEFT: 1px; WIDTH: 200px; PADDING-RIGHT: 1px; FLOAT: left; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 1px
+}
+.pmgGlobalMSAnswers INPUT {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; LINE-HEIGHT: 20px; PADDING-LEFT: 5px; WIDTH: 170px; BACKGROUND: 0px 0px; FLOAT: left; HEIGHT: 20px; COLOR: #999; FONT-SIZE: 10px; BORDER-TOP: medium none; MARGIN-RIGHT: 1px; BORDER-RIGHT: medium none
+}
+.pmgGlobalMSAnswersSearchBtn {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://officecms/sites/preview/en-us/files/195/675/ZA102534328.jpg) no-repeat 0px 0px; FLOAT: right; HEIGHT: 20px
+}
+.pmgGlobalHeaderLeft {
+	WIDTH: 60%; FLOAT: left
+}
+.pmgGlobalHeaderAppDetail {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+.pmgGlobalHeaderImgSpace {
+	MARGIN-RIGHT: 5px
+}
+.pmgGlobalHeaderAppName {
+	PADDING-BOTTOM: 2px; MARGIN: -11px 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Segoe UI Semibold; FONT-SIZE: 3em; PADDING-TOP: 0px
+}
+.pmgGlobalHeaderAppName SPAN {
+	FONT-FAMILY: Segoe UI Light
+}
+.pmgGlobalHeaderRight {
+	POSITION: relative; MARGIN: 10px 0px 0px; WIDTH: 300px; FLOAT: left
+}
+.pmgGlobalHeaderFBText {
+	MARGIN: -4px 0px 0px; WIDTH: 179px; FONT-FAMILY: Segoe UI; FLOAT: left; COLOR: #848484
+}
+.pmgGlobalHeaderFBText P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; FLOAT: right; FONT-SIZE: 1.2em; PADDING-TOP: 0px
+}
+.pmgGlobalHeaderFBText SPAN {
+	FONT-SIZE: 1em
+}
+.pmgPage A {
+	COLOR: #8f308f
+}
+.pmgPage P {
+	
+}
+.pmgPage H1 {
+	FONT-SIZE: 2.5em
+}
+.pmgPage H2 {
+	FONT-SIZE: 2em
+}
+.pmgPage H3 {
+	FONT-SIZE: 1.4em
+}
+.pmgPage H4 {
+	FONT-SIZE: 1.5em
+}
+.pmgPage .pmgCentered {
+	MARGIN: auto
+}
+.pmgPage .pmgMoreLink {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.pmgPage .pmgLeftJab40 {
+	MARGIN: 0px 0px 0px 40px
+}
+.pmgPage .pmgInlineButtons {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgPage .pmgInlineButtons LI {
+	DISPLAY: inline; LIST-STYLE-IMAGE: none
+}
+.pmgPage .pmgInlineIconHeader {
+	FLOAT: left
+}
+.pmgPage .pmgInlineIconHeader IMG {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom
+}
+.pmgPage .pmgInlineIconHeader H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; FONT-SIZE: 3.3em; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+.pmgPage .pmgRightIconText SPAN {
+	PADDING-RIGHT: 5px; DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+.pmgRightIconText H3 {
+	PADDING-RIGHT: 5px; DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+.pmgPage .pmgRightIconText IMG {
+	DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+.pmgPage .pmgListOrangeDotFlush LI {
+	PADDING-BOTTOM: 5px; LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/404/478/ZA101098582.gif) no-repeat 0px 5px; PADDING-TOP: 0px
+}
+.pmgGlobalPage A {
+	COLOR: #4685df
+}
+.pmgGlobalPage P {
+	
+}
+.pmgGlobalPage H1 {
+	FONT-SIZE: 2.5em
+}
+.pmgGlobalPage H2 {
+	FONT-SIZE: 2em
+}
+.pmgGlobalPage H3 {
+	FONT-SIZE: 1.4em
+}
+.pmgGlobalPage H4 {
+	FONT-SIZE: 1.5em
+}
+.pmgGlobalPage .pmgGlobalCentered {
+	MARGIN: auto
+}
+.pmgGlobalPage .pmgGlobalMoreLink {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.pmgGlobalPage .pmgGlobalLeftJab40 {
+	MARGIN: 0px 0px 0px 40px
+}
+.pmgGlobalPage .pmgGlobalInlineButtons {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalPage .pmgGlobalInlineButtons LI {
+	DISPLAY: inline; LIST-STYLE-IMAGE: none
+}
+.pmgGlobalPage .pmgGlobalInlineIconHeader {
+	FLOAT: left
+}
+.pmgGlobalPage .pmgGlobalInlineIconHeader IMG {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom
+}
+.pmgGlobalPage .pmgGlobalInlineIconHeader H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; FONT-SIZE: 3.3em; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+.pmgGlobalPage .pmgGlobalRightIconText SPAN {
+	PADDING-RIGHT: 5px; DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+.pmgGlobalRightIconText H3 {
+	PADDING-RIGHT: 5px; DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+.pmgGlobalPage .pmgGlobalRightIconText IMG {
+	DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+.pmgGlobalPage .pmgGlobalListOrangeDotFlush LI {
+	PADDING-BOTTOM: 5px; LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/404/478/ZA101098582.gif) no-repeat 0px 5px; PADDING-TOP: 0px
+}
+.pmgGlobalFBPlugin {
+	POSITION: absolute; WIDTH: 215px; TOP: 0px; RIGHT: 111px
+}
+.pmgGlobalSlider {
+	POSITION: absolute; WIDTH: 820px; OVERFLOW: hidden
+}
+.pmgGlobalSliderList {
+	POSITION: relative; WIDTH: 4000px
+}
+#pmgAppOnenote A {
+	COLOR: #8f308f
+}
+#pmgAppOnenote #pmgAppBody {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/803/712/ZA102259203.png) repeat-y center top
+}
+#pmgAppOnenote {
+	MARGIN: auto; WIDTH: 940px; COLOR: #000
+}
+#pmgAppOnenote H3 {
+	FONT-FAMILY: Segoe UI Semibold, Segoe UI, Sans-Serif; FONT-WEIGHT: normal
+}
+#pmgAppOnenote H4 {
+	FONT-FAMILY: Segoe UI Semibold, Segoe UI, Sans-Serif; FONT-WEIGHT: normal
+}
+#pmgAppHeader {
+	POSITION: relative; WIDTH: 100%; FLOAT: left
+}
+#pmgGlobalHeader {
+	POSITION: relative; WIDTH: 100%; FLOAT: left
+}
+#pmgAppCtas {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; CLEAR: both; PADDING-TOP: 10px
+}
+#pmgGlobalCtas {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; CLEAR: both; PADDING-TOP: 10px
+}
+#pmgAppBody {
+	WIDTH: 100%; DISPLAY: inline-block
+}
+#pmgAppName {
+	FONT-WEIGHT: bold
+}
+#pmgGlobalAppName {
+	FONT-WEIGHT: bold
+}
+#pmgAppShare {
+	POSITION: absolute; WIDTH: 215px; TOP: 0px; RIGHT: 80px
+}
+#pmgAppShare SPAN {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom
+}
+#pmgAppShare UL {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom
+}
+#pmgAppShare SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; COLOR: #888; FONT-SIZE: 1.3em; PADDING-TOP: 0px
+}
+.pmgDemoTitle {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalDemoTitle {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#pmgOnenoteDemo {
+	POSITION: relative; PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; WIDTH: 239px; PADDING-RIGHT: 0px; PADDING-TOP: 15px
+}
+#pmgDemoImage SPAN {
+	DISPLAY: none
+}
+#pmgDemoImage A {
+	WIDTH: 239px; DISPLAY: block; BACKGROUND: url(http://officecms/sites/preview/en-us/files/143/937/ZA102259150.png) no-repeat left top; HEIGHT: 139px
+}
+#pmgDemoImage A:hover {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/143/937/ZA102259150.png) no-repeat right top
+}
+#pmgGlobalDemoImage SPAN {
+	DISPLAY: none
+}
+#pmgGlobalDemoImage A {
+	WIDTH: 239px; DISPLAY: block; BACKGROUND: url(http://officecms/sites/preview/en-us/files/143/937/ZA102259150.png) no-repeat left top; HEIGHT: 139px
+}
+#pmgGlobalDemoImage A:hover {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/143/937/ZA102259150.png) no-repeat right top
+}
+#pmgDemoCaption {
+	POSITION: absolute; TOP: 0px; RIGHT: -71px
+}
+#pmgOnenoteCenteredHero {
+	MARGIN-TOP: 25px; WIDTH: 826px; MARGIN-BOTTOM: 5px; HEIGHT: 273px
+}
+#pmgOnenoteHeroBlurbs {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 25px; WIDTH: 190px; PADDING-RIGHT: 0px; PADDING-TOP: 25px
+}
+#pmgOnenoteHeroBlurbs H2 {
+	LINE-HEIGHT: 1em; WIDTH: 170px; FONT-SIZE: 2.8em; FONT-WEIGHT: normal
+}
+#pmgOnenoteHeroBlurbs H1 {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 1.2em; FONT-WEIGHT: normal; PADDING-TOP: 15px
+}
+#pmgOnenoteHeroCta {
+	COLOR: #98499e; FONT-SIZE: 1.6em
+}
+#pmgOnenoteAnywhereBox {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 25px; HEIGHT: 23px; PADDING-TOP: 4px
+}
+.pmgOnenoteAnywhereLink {
+	PADDING-LEFT: 80px
+}
+#pmgOnenoteReviews {
+	LINE-HEIGHT: 1.7em
+}
+#pmgOnenoteSmFeed {
+	POSITION: relative; MARGIN: 30px 0px 0px 10px
+}
+#pmgOnenoteSmTitle {
+	WIDTH: 300px; BACKGROUND: #8f308f; HEIGHT: 25px; FONT-SIZE: 0.9em; FONT-WEIGHT: bold
+}
+#pmgOnenoteSmTitle A {
+	COLOR: #fff
+}
+#pmgOnenoteSmTitle LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 2px auto 2px 17px; PADDING-LEFT: 27px; PADDING-RIGHT: 0px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 20px; VERTICAL-ALIGN: middle; LIST-STYLE-IMAGE: none; PADDING-TOP: 2px; _height: 20px
+}
+#pmgOneNoteImageMap {
+	POSITION: relative; WIDTH: 820px; MARGIN-BOTTOM: 30px; HEIGHT: 266px; OVERFLOW: hidden; TOP: -1px
+}
+#pmgOneNoteImageMap:hover {
+	TOP: 0px
+}
+#pmgOneNoteImageMap #pmgOneNoteMeet {
+	PADDING-LEFT: 8px; MARGIN-RIGHT: -32px
+}
+#pmgOneNoteImageMap #pmgOneNoteIPhone {
+	PADDING-LEFT: 3px; MARGIN-RIGHT: -14px
+}
+.pmgGlobalColumnAlign {
+	POSITION: relative; DISPLAY: inline; TOP: 61px; MARGIN-RIGHT: -11px; LEFT: 250px
+}
+#pmgOneNoteImageMap #pmgOneNoteMeet:hover {
+	TOP: 56px
+}
+#pmgOneNoteImageMap #pmgOneNoteIPhone:hover {
+	TOP: 56px
+}
+#pmgOneNoteImageMap #pmgOneNoteWP7:hover {
+	TOP: 56px
+}
+#pmgOneNoteImageMap #pmgOneNoteWebApp:hover {
+	TOP: 56px
+}
+.pmgListOrangeDotFlush {
+	
+}
+.pmgModuleSmall {
+	WIDTH: 310px
+}
+.pmgModuleSmall .pmgModuleBody {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/018/921/ZA102259169.png) repeat-y center top; PADDING-TOP: 0px
+}
+.pmgGlobalModuleSmall {
+	WIDTH: 310px
+}
+.pmgGlobalModuleSmall .pmgModuleBody {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/018/921/ZA102259169.png) repeat-y center top; PADDING-TOP: 0px
+}
+.pmgModuleHead {
+	DISPLAY: block
+}
+.pmgModuleTail {
+	DISPLAY: block
+}
+.pmgModuleHead {
+	DISPLAY: block
+}
+.pmgModuleTail {
+	DISPLAY: block
+}
+.pmgGlobalModuleHead {
+	DISPLAY: block
+}
+.pmgGlobalModuleTail {
+	DISPLAY: block
+}
+.pmgGlobalModuleHead {
+	DISPLAY: block
+}
+.pmgGlobalModuleTail {
+	DISPLAY: block
+}
+.pmgModuleHeadline {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.pmgGlobalModuleHeadline {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.pmgModuleMedium .pmgModuleBody {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/151/711/ZA102259269.png) repeat-y center top
+}
+.pmgModuleMedium .pmgModuleBody {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/151/711/ZA102259269.png) repeat-y center top
+}
+.pmgGlobalMeduleMedium .pmgModuleBody {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/151/711/ZA102259269.png) repeat-y center top
+}
+.pmgModuleTiny {
+	WIDTH: 248px
+}
+.pmgModuleTiny H3 {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgModuleTiny .pmgModuleBody {
+	Z-INDEX: 1; POSITION: relative; PADDING-BOTTOM: 35px; MIN-HEIGHT: 110px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/577/716/ZA102259243.png) no-repeat center bottom; PADDING-TOP: 10px
+}
+.pmgGlobalModuleTiny {
+	WIDTH: 248px
+}
+.pmgGlobalModuleTiny H3 {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalModuleTiny .pmgModuleBody {
+	Z-INDEX: 1; POSITION: relative; PADDING-BOTTOM: 35px; MIN-HEIGHT: 110px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/577/716/ZA102259243.png) no-repeat center bottom; PADDING-TOP: 10px
+}
+.pmgSection7030 .pmgLeftCol {
+	WIDTH: 510px; FLOAT: left
+}
+.pmgSection7030 .pmgRightCol {
+	WIDTH: 320px; FLOAT: left
+}
+.pmgGlobalSection7030 .pmgGlobalLeftCol {
+	WIDTH: 510px; FLOAT: left
+}
+.pmgGlobalSection7030 .pmgGlobalRightCol {
+	WIDTH: 320px; FLOAT: left
+}
+.pmgSection5050 .pmgLeftCol {
+	WIDTH: 50%; FLOAT: left
+}
+.pmgSection5050 .pmgRightCol {
+	WIDTH: 50%; FLOAT: left
+}
+.pmgGlobalSection5050 .pmgGlobalLeftCol {
+	WIDTH: 50%; FLOAT: left
+}
+.pmgGlobalSection5050 .pmgGlobalRightCol {
+	WIDTH: 50%; FLOAT: left
+}
+.pmgRssFeed {
+	WIDTH: 500px
+}
+.pmgRssLiveFeed {
+	MIN-HEIGHT: 300px
+}
+#pmgSmFeed {
+	MIN-HEIGHT: 360px; WIDTH: 300px
+}
+#pmgSmFeed LI {
+	PADDING-BOTTOM: 10px; LINE-HEIGHT: 1.3em; LIST-STYLE-TYPE: none; PADDING-LEFT: 17px; PADDING-RIGHT: 17px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 10px
+}
+.pmgRssFeed H4 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #98499e; FONT-SIZE: 1.5em; FONT-WEIGHT: normal; PADDING-TOP: 10px
+}
+.pmgRssFeed LI {
+	LIST-STYLE-TYPE: none; MARGIN: -1px 30px 0px; DISPLAY: block; BORDER-TOP: #ccc 1px solid; LIST-STYLE-IMAGE: none
+}
+.pmgRssFeed IMG {
+	VERTICAL-ALIGN: top
+}
+.pmgRssFeed P {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+#pmgRssFeatured {
+	BORDER-BOTTOM: #ccc 1px solid; POSITION: relative; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; BACKGROUND: #eee; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 0px
+}
+#pmgRssFeatured IMG {
+	POSITION: absolute; LEFT: 30px
+}
+#pmgRssFeatured P {
+	MARGIN: 0px 0px 0px 70px; PADDING-LEFT: 10px
+}
+.pmgSmBody {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 240px; PADDING-RIGHT: 10px; FLOAT: right
+}
+.pmgSmFeedTwitter {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/130/426/ZA102259155.png) no-repeat left top
+}
+.pmgSmFeedFacebook {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/220/843/ZA102259253.png) no-repeat left top
+}
+.pmgSmFeedEven {
+	BACKGROUND-COLOR: #ccc
+}
+.pmgSmFeedItem {
+	PADDING-BOTTOM: 0px; MIN-HEIGHT: 27px; PADDING-LEFT: 27px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI DIV.pmgSmFeedTwitter {
+	WIDTH: 20px; FLOAT: left; HEIGHT: 20px
+}
+DIV.pmgSmFeedFacebook {
+	WIDTH: 20px; FLOAT: left; HEIGHT: 20px
+}
+#pmgSmCaption {
+	POSITION: absolute; BOTTOM: 0px; DISPLAY: block; TOP: 360px; LEFT: -285px
+}
+.pmgSmAuthor {
+	COLOR: #8f308f
+}
+.pmgRssAuthor {
+	COLOR: #8f308f
+}
+#pmgOnenoteLikebtn {
+	HEIGHT: 22px; MARGIN-LEFT: 20px; OVERFLOW: hidden
+}
+.pmgOneNoteMSAnswers {
+	MARGIN: 10px auto auto; WIDTH: 248px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/979/938/ZA102534455.png) no-repeat; HEIGHT: 174px
+}
+.pmgOneNoteMSAnsersCnt {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 17px; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+#pmgOneNoteSearchBtn {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.pmgOneNoteGAImg {
+	MARGIN: 10px 0px 0px
+}
+.pmg_makeover {
+	LINE-HEIGHT: normal; PADDING-LEFT: 10px; WIDTH: 940px; OVERFLOW: hidden
+}
+.pmg_makeover_title_layout {
+	WIDTH: 550px
+}
+.pmg_global_blurb {
+	FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 1.2em
+}
+.pmg_makeover_intro_layout {
+	WIDTH: 500px; FLOAT: left; PADDING-TOP: 17px
+}
+.pmg_makeover_bookmark {
+	COLOR: white
+}
+.pmg_makeover_ppt_middle_section_bkground {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/848/003/ZA102232821.png) repeat-y; HEIGHT: 352px
+}
+.pmg_makeover_excel_middle_section_bkground {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/920/891/ZA102259899.png) repeat-y; HEIGHT: 352px
+}
+.pmg_makeover_word_middle_section_bkground {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/922/661/ZA102259859.png) repeat-y; HEIGHT: 352px
+}
+.pmg_makeover_publisher_middle_section_bkground {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/604/960/ZA102237456.png) repeat-y; HEIGHT: 352px
+}
+.pmg_makeover_layover_image {
+	MARGIN: 10px 0px 0px 25px; WIDTH: 510px; FLOAT: left
+}
+.pmg_makeover_video_layout {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 45px; WIDTH: 200px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 26px
+}
+.pmg_makeover P {
+	FONT-FAMILY: Segoe UI Semibold, Segoe UI; MARGIN-BOTTOM: 10px; COLOR: #000000; FONT-SIZE: 1.6em
+}
+.pmg_makeover_see_more {
+	PADDING-RIGHT: 40px; FLOAT: right; FONT-SIZE: 1.2em
+}
+.pmg_makeover_bottom_100 {
+	MARGIN-TOP: 30px; WIDTH: 100%
+}
+#pmg_makeover_left_col {
+	WIDTH: 25%; FLOAT: left; MARGIN-LEFT: 45px
+}
+#pmg_makeover_mid_col {
+	PADDING-LEFT: 50px; WIDTH: 25%; FLOAT: left
+}
+#pmg_makeover_right_col {
+	WIDTH: 30%; FLOAT: right; PADDING-TOP: 10px
+}
+#pmg_makeover_right_col_layout {
+	PADDING-LEFT: 80px
+}
+.pmg_makeover .pmg_makeover_bottom_100 H2 {
+	FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 1.2em
+}
+#pmg_makeover_button {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.pmg_makeover_demo_link {
+	PADDING-LEFT: 90px; WIDTH: 200px; FONT-FAMILY: Segoe UI; FONT-SIZE: 1.2em
+}
+.pmg_makeover_top_content {
+	MARGIN-TOP: 30px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/151/161/ZA102288558.png) repeat-y; HEIGHT: 165px; MARGIN-LEFT: 50px; PADDING-TOP: 80px
+}
+.pmg_makeover_detailpage_top_content {
+	WIDTH: 850px; MARGIN-LEFT: 65px; OVERFLOW: hidden
+}
+.pmg_makeover H1 {
+	FONT-FAMILY: Segoe UI Light; COLOR: #000000; FONT-SIZE: 2.3em
+}
+.pmg_global_subtitle {
+	FONT-FAMILY: Segoe UI Semibold; FONT-SIZE: 1.6em; FONT-WEIGHT: bold
+}
+.pmg_makeover_top_left_60 {
+	PADDING-BOTTOM: 8px; WIDTH: 60%; FLOAT: left
+}
+.pmg_makeover_top_right_40 {
+	WIDTH: 40%; FLOAT: left; PADDING-TOP: 14px
+}
+.pmg_makeover_detailpage_top_left {
+	WIDTH: 550px; FLOAT: left
+}
+.pmg_makeover_detailpage_top_right {
+	WIDTH: 300px; FLOAT: right
+}
+.pmg_makeover_top_left_70 {
+	WIDTH: 70%; FLOAT: left
+}
+.pmg_makeover_top_right_30 {
+	MARGIN-TOP: 55px; WIDTH: 30%; FLOAT: right
+}
+.pmg_makeover H3 {
+	MARGIN: 26px 0px 0px; FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 1.5em; FONT-WEIGHT: normal
+}
+.pmg_makeover_blurb_layout {
+	WIDTH: 450px
+}
+.pmg_makeover_word_layout {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/699/325/ZA102237097.png) repeat-y; HEIGHT: 238px
+}
+.pmg_makeover_bottom_content {
+	MARGIN-TOP: 25px; MARGIN-LEFT: 48px
+}
+.pmg_makeover_detailpage_bottom_content {
+	MARGIN-TOP: 25px; MARGIN-LEFT: 48px
+}
+.pmg_makeover_layover_content {
+	PADDING-LEFT: 50px; WIDTH: 274px; FLOAT: left
+}
+.pmg_makeover .pmg_global_blurb LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/085/476/ZA102237209.png) no-repeat 0px 6px
+}
+.pmg_makeover .pmg_global_blurb UL {
+	MARGIN-LEFT: -35px
+}
+.pmg_makeover_app_title_layout {
+	MARGIN-TOP: 0px; PADDING-TOP: 20px
+}
+.pmg_makeover_excel_title_layout {
+	MARGIN-TOP: 0px; PADDING-TOP: 20px
+}
+.pmg_makeover H2 {
+	FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 2em; FONT-WEIGHT: bold
+}
+.pmg_global_app_year {
+	FONT-FAMILY: Segoe UI Light
+}
+.pmg_makeover .pmg_makeover_bottom_content H3 {
+	FONT-FAMILY: Segoe UI Semibold; COLOR: #000000; FONT-SIZE: 1.3em
+}
+.pmg_makeover_word {
+	FONT-FAMILY: Segoe UI Light; COLOR: #265dad; FONT-SIZE: 1.2em; PADDING-TOP: 6px
+}
+.pmg_makeover_before_after {
+	WIDTH: 448px; PADDING-RIGHT: 86px; FLOAT: right
+}
+.pmg_makeover_word_before_after_img {
+	MARGIN-TOP: -20px; PADDING-RIGHT: 50px; FLOAT: right
+}
+.pmg_makeover_excel_layout {
+	MARGIN-TOP: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/899/485/ZA102232939.png) repeat-y; HEIGHT: 240px
+}
+#Excel_AppHeadline_Layout {
+	MARGIN-TOP: 0px; PADDING-TOP: 29px
+}
+.pmg_makeover_excel {
+	FONT-FAMILY: Segoe UI Light; COLOR: #297309; FONT-SIZE: 1.2em; PADDING-TOP: 6px
+}
+.pmg_makeover_excel_before_after_img {
+	PADDING-LEFT: 30px; PADDING-TOP: 5px
+}
+.pmg_makeover_ppt_layout {
+	MARGIN-TOP: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/833/399/ZA102233047.png) repeat-y; HEIGHT: 237px
+}
+.pmg_makeover_ppt {
+	FONT-FAMILY: Segoe UI Light; COLOR: #b33000; FONT-SIZE: 1.2em; PADDING-TOP: 3px
+}
+.pmg_makeover_ppt_before_after_img {
+	MARGIN-TOP: -20px; PADDING-LEFT: 30px
+}
+.pmg_makeover_publisher_layout {
+	MARGIN-TOP: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/948/628/ZA102237093.png) repeat-y; HEIGHT: 237px
+}
+.pmg_makeover_publisher {
+	FONT-FAMILY: Segoe UI Light; COLOR: #028180; FONT-SIZE: 1.2em; PADDING-TOP: 3px
+}
+.pmg_makeover_publisher_before_after_img {
+	MARGIN-TOP: -20px
+}
+.pmg_makeover_desc {
+	FONT-FAMILY: Segoe UI Semibold; FONT-SIZE: 1.4em
+}
+#pmg_makeover_return {
+	PADDING-RIGHT: 55px; FLOAT: right; PADDING-TOP: 30px
+}
+.pmg_global_social_media {
+	FONT-FAMILY: Segoe UI; FONT-SIZE: 1.2em
+}
+.pmg_makeover_social_media_layout {
+	PADDING-LEFT: 68px; PADDING-TOP: 70px
+}
+.pmg_global_app_share {
+	POSITION: absolute; WIDTH: 215px; TOP: 0px; RIGHT: 80px
+}
+#pmg_makeover_share_layout {
+	POSITION: relative; FLOAT: right; MARGIN-LEFT: 100px
+}
+#pmg_makeover_homepage_share_layout {
+	POSITION: relative; WIDTH: 300px; MARGIN-BOTTOM: 11px; FLOAT: right
+}
+#moverlay {
+	Z-INDEX: 1000; BORDER-BOTTOM: #cecece 1px solid; POSITION: fixed; BORDER-LEFT: #cecece 1px solid; WIDTH: 100%; DISPLAY: none; BACKGROUND: #000; HEIGHT: 100%; OVERFLOW: hidden; BORDER-TOP: #cecece 1px solid; TOP: 0px; BORDER-RIGHT: #cecece 1px solid; LEFT: 0px
+}
+#pmg_global_popup_dialogcontent {
+	MARGIN: auto; DISPLAY: none; HEIGHT: auto
+}
+#pmg_makeover_popup_detailcontent {
+	MARGIN: auto; DISPLAY: none; HEIGHT: auto
+}
+.pmg_global_popup_loading {
+	POSITION: absolute; TEXT-ALIGN: center
+}
+.pmg_global_popup_corner {
+	Z-INDEX: -9999; POSITION: absolute; FILTER: alpha(opacity=100); BACKGROUND-COLOR: #323232; WIDTH: 20px; HEIGHT: 20px; opacity: 1
+}
+.pmg_global_popup_clip {
+	Z-INDEX: 999; POSITION: absolute; BACKGROUND-COLOR: transparent; WIDTH: 20px; HEIGHT: 20px; TOP: 0px; LEFT: 0px
+}
+.pmg_global_popup_tl {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/620/587/ZA102259198.png) no-repeat left top
+}
+.pmg_global_popup_bl {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/620/587/ZA102259198.png) no-repeat left bottom
+}
+.pmg_global_popup_tr {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/620/587/ZA102259198.png) no-repeat right top
+}
+.pmg_global_popup_br {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/620/587/ZA102259198.png) no-repeat right bottom
+}
+.pmg_global_clear {
+	CLEAR: both
+}
+.pmgGlobalClear {
+	CLEAR: both
+}
+.pmg_global_popup_toplayer {
+	POSITION: relative
+}
+.pmg_global_popup_bottomlayer {
+	POSITION: relative
+}
+.pmg_global_corner_pos_tleft {
+	TOP: 0pt; LEFT: 0px
+}
+.pmg_global_corner_pos_tright {
+	Z-INDEX: -9999; TOP: 0pt; RIGHT: 0px
+}
+.pmg_global_corner_pos_bleft {
+	BOTTOM: 0pt; LEFT: 0pt
+}
+.pmg_global_corner_pos_bright {
+	BOTTOM: 0pt; RIGHT: 0pt
+}
+.pmg_global_close_img {
+	POSITION: absolute; MARGIN-LEFT: 5px; CURSOR: pointer
+}
+#ifrvideo {
+	BORDER-BOTTOM: gray 2px solid; BORDER-LEFT: gray 2px solid; BORDER-TOP: gray 2px solid; BORDER-RIGHT: gray 2px solid
+}
+.pmg_global_popupblurb {
+	PADDING-LEFT: 45px; FONT-SIZE: medium
+}
+.pmg_global_popup_popupclose {
+	POSITION: absolute; PADDING-RIGHT: 64px; FONT-SIZE: 1.5em; TOP: 5px; RIGHT: 0px; PADDING-TOP: 5px
+}
+.pmg_global_popup_videocnt {
+	PADDING-BOTTOM: 10px; MARGIN-TOP: 35px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.pmg_global_popup_videocnt P {
+	align: center
+}
+.pmg_global_popup_innershell {
+	MARGIN: 20px
+}
+.popupclose P {
+	MARGIN: 5px 10px 5px 0px
+}
+.pmg_global_showcasevid {
+	WIDTH: 640px; HEIGHT: 360px
+}
+.pmg_global_app_share SPAN {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom
+}
+.pmg_global_app_share UL {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom
+}
+.pmg_global_app_share SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; COLOR: #888; FONT-SIZE: 1.5em; PADDING-TOP: 0px
+}
+.pmg_global_app_likebtn {
+	POSITION: absolute; WIDTH: 50px; TOP: 0px; RIGHT: 0px
+}
+.pmg_global_app_share .inline_buttons {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmg_global_app_share .inline_buttons LI {
+	DISPLAY: inline; LIST-STYLE-IMAGE: none
+}
+.pmgMakeover {
+	LINE-HEIGHT: normal; PADDING-LEFT: 10px; WIDTH: 940px; OVERFLOW: hidden
+}
+.pmgMakeoverTitleLayout {
+	WIDTH: 550px
+}
+.pmgGlobalBlurb {
+	FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 1.2em
+}
+.pmgMakeoverIntroLayout {
+	WIDTH: 500px; FLOAT: left; PADDING-TOP: 17px
+}
+.pmgMakeoverBookmark {
+	COLOR: white
+}
+.pmgMakeoverPptMiddleSectionBkground {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/848/003/ZA102232821.png) repeat-y; HEIGHT: 352px
+}
+.pmgMakeoverExcelMiddleSectionBkground {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/920/891/ZA102259899.png) repeat-y; HEIGHT: 352px
+}
+.pmgMakeoverWordMiddleSectionBkground {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/922/661/ZA102259859.png) repeat-y; HEIGHT: 352px
+}
+.pmgMakeoverPublisherMiddleSectionBkground {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/604/960/ZA102237456.png) repeat-y; HEIGHT: 352px
+}
+.pmgMakeoverLayoverImage {
+	MARGIN: 10px 0px 0px 25px; WIDTH: 510px; FLOAT: left
+}
+.pmgMakeoverVideoLayout {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 45px; WIDTH: 200px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 26px
+}
+.pmgMakeover P {
+	FONT-FAMILY: Segoe UI Semibold, Segoe UI; MARGIN-BOTTOM: 10px; COLOR: #000000; FONT-SIZE: 1.6em
+}
+.pmgMakeoverSeeMore {
+	PADDING-RIGHT: 40px; FLOAT: right; FONT-SIZE: 1.2em
+}
+.pmgMakeoverBottom100 {
+	MARGIN-TOP: 30px; WIDTH: 100%
+}
+#pmgMakeoverLeftCol {
+	WIDTH: 25%; FLOAT: left; MARGIN-LEFT: 45px
+}
+#pmgMakeoverMidCol {
+	PADDING-LEFT: 50px; WIDTH: 25%; FLOAT: left
+}
+#pmgMakeoverRightCol {
+	WIDTH: 30%; FLOAT: right; PADDING-TOP: 10px
+}
+#pmgMakeoverRightColLayout {
+	PADDING-LEFT: 80px
+}
+.pmgMakeover .pmgMakeoverBottom100 H2 {
+	FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 1.2em
+}
+#pmgMakeoverButton {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.pmgMakeoverDemoLink {
+	PADDING-LEFT: 90px; WIDTH: 200px; FONT-FAMILY: Segoe UI; FONT-SIZE: 1.2em
+}
+.pmgMakeoverTopContent {
+	MARGIN-TOP: 30px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/151/161/ZA102288558.png) repeat-y; HEIGHT: 165px; MARGIN-LEFT: 50px; PADDING-TOP: 80px
+}
+.pmgMakeoverDetailpageTopContent {
+	WIDTH: 850px; MARGIN-LEFT: 65px; OVERFLOW: hidden
+}
+.pmgMakeover H1 {
+	FONT-FAMILY: Segoe UI Light; COLOR: #000000; FONT-SIZE: 2.3em
+}
+.pmgGlobalSubtitle {
+	FONT-FAMILY: Segoe UI Semibold; FONT-SIZE: 1.6em; FONT-WEIGHT: bold
+}
+.pmgMakeoverTopLeft60 {
+	PADDING-BOTTOM: 8px; WIDTH: 60%; FLOAT: left
+}
+.pmgMakeoverTopRight40 {
+	WIDTH: 40%; FLOAT: left; PADDING-TOP: 14px
+}
+.pmgMakeoverDetailpageTopLeft {
+	WIDTH: 550px; FLOAT: left
+}
+.pmgMakeoverDetailpageTopRight {
+	WIDTH: 300px; FLOAT: right
+}
+.pmgMakeoverTopLeft70 {
+	WIDTH: 70%; FLOAT: left
+}
+.pmgMakeoverTopRight30 {
+	MARGIN-TOP: 55px; WIDTH: 30%; FLOAT: right
+}
+.pmgMakeover H3 {
+	MARGIN: 26px 0px 0px; FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 1.5em; FONT-WEIGHT: normal
+}
+.pmgMakeoverBlurbLayout {
+	WIDTH: 450px
+}
+.pmgMakeoverWordLayout {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/699/325/ZA102237097.png) repeat-y; HEIGHT: 238px
+}
+.pmgMakeoverBottomContent {
+	MARGIN-TOP: 25px; MARGIN-LEFT: 48px
+}
+.pmgMakeoverDetailpageBottomContent {
+	MARGIN-TOP: 25px; MARGIN-LEFT: 48px
+}
+.pmgMakeoverLayoverContent {
+	PADDING-LEFT: 50px; WIDTH: 274px; FLOAT: left
+}
+.pmgMakeover .pmgGlobalBlurb LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/085/476/ZA102237209.png) no-repeat 0px 6px
+}
+.pmgMakeover .pmgGlobalBlurb UL {
+	MARGIN-LEFT: -35px
+}
+.pmgMakeoverAppTitleLayout {
+	MARGIN-TOP: 0px; PADDING-TOP: 20px
+}
+.pmgMakeoverExcelTitleLayout {
+	MARGIN-TOP: 0px; PADDING-TOP: 20px
+}
+.pmgMakeover H2 {
+	FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 2em; FONT-WEIGHT: bold
+}
+.pmgGlobalAppYear {
+	FONT-FAMILY: Segoe UI Light
+}
+.pmgMakeover .pmgMakeoverBottomContent H3 {
+	FONT-FAMILY: Segoe UI Semibold; COLOR: #000000; FONT-SIZE: 1.3em
+}
+.pmgMakeoverWord {
+	FONT-FAMILY: Segoe UI Light; COLOR: #265dad; FONT-SIZE: 1.2em; PADDING-TOP: 6px
+}
+.pmgMakeoverBeforeAfter {
+	WIDTH: 448px; PADDING-RIGHT: 86px; FLOAT: right
+}
+.pmgMakeoverWordBeforeAfterImg {
+	MARGIN-TOP: -20px; PADDING-RIGHT: 50px; FLOAT: right
+}
+.pmgMakeoverExcelLayout {
+	MARGIN-TOP: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/899/485/ZA102232939.png) repeat-y; HEIGHT: 240px
+}
+#ExcelAppHeadlineLayout {
+	MARGIN-TOP: 0px; PADDING-TOP: 29px
+}
+.pmgMakeoverExcel {
+	FONT-FAMILY: Segoe UI Light; COLOR: #297309; FONT-SIZE: 1.2em; PADDING-TOP: 6px
+}
+.pmgMakeoverExcelBeforeAfterImg {
+	PADDING-LEFT: 30px; PADDING-TOP: 5px
+}
+.pmgMakeoverPptLayout {
+	MARGIN-TOP: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/833/399/ZA102233047.png) repeat-y; HEIGHT: 237px
+}
+.pmgMakeoverPpt {
+	FONT-FAMILY: Segoe UI Light; COLOR: #b33000; FONT-SIZE: 1.2em; PADDING-TOP: 3px
+}
+.pmgMakeoverPptBeforeAfterImg {
+	MARGIN-TOP: -20px; PADDING-LEFT: 30px
+}
+.pmgMakeoverPublisherLayout {
+	MARGIN-TOP: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/948/628/ZA102237093.png) repeat-y; HEIGHT: 237px
+}
+.pmgMakeoverPublisher {
+	FONT-FAMILY: Segoe UI Light; COLOR: #028180; FONT-SIZE: 1.2em; PADDING-TOP: 3px
+}
+.pmgMakeoverPublisherBeforeAfterImg {
+	MARGIN-TOP: -20px
+}
+.pmgMakeoverDesc {
+	FONT-FAMILY: Segoe UI Semibold; FONT-SIZE: 1.4em
+}
+#pmgMakeoverReturn {
+	PADDING-RIGHT: 55px; FLOAT: right; PADDING-TOP: 30px
+}
+.pmgGlobalSocialMedia {
+	FONT-FAMILY: Segoe UI; FONT-SIZE: 1.2em
+}
+.pmgMakeoverSocialMediaLayout {
+	PADDING-LEFT: 68px; PADDING-TOP: 70px
+}
+.pmgGlobalAppShare {
+	POSITION: absolute; WIDTH: 215px; TOP: 0px; RIGHT: 80px
+}
+#pmgMakeoverShareLayout {
+	POSITION: relative; FLOAT: right; MARGIN-LEFT: 100px
+}
+#pmgMakeoverHomepageShareLayout {
+	POSITION: relative; WIDTH: 300px; MARGIN-BOTTOM: 11px; FLOAT: right
+}
+#pmgMoverlay {
+	Z-INDEX: 1000; BORDER-BOTTOM: #cecece 1px solid; POSITION: fixed; BORDER-LEFT: #cecece 1px solid; WIDTH: 100%; DISPLAY: none; BACKGROUND: #000; HEIGHT: 100%; OVERFLOW: hidden; BORDER-TOP: #cecece 1px solid; TOP: 0px; BORDER-RIGHT: #cecece 1px solid; LEFT: 0px
+}
+#pmgGlobalPopupDialogcontent {
+	MARGIN: auto; DISPLAY: none; HEIGHT: auto
+}
+#pmgMakeoverPopupDetailcontent {
+	MARGIN: auto; DISPLAY: none; HEIGHT: auto
+}
+.pmgGlobalPopupLoading {
+	POSITION: absolute; TEXT-ALIGN: center
+}
+.pmgGlobalPopupCorner {
+	Z-INDEX: -9999; POSITION: absolute; FILTER: alpha(opacity=100); BACKGROUND-COLOR: #323232; WIDTH: 20px; HEIGHT: 20px; opacity: 1
+}
+.pmgGlobalPopupClip {
+	Z-INDEX: 999; POSITION: absolute; BACKGROUND-COLOR: transparent; WIDTH: 20px; HEIGHT: 20px; TOP: 0px; LEFT: 0px
+}
+.pmgGlobalPopupTl {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/620/587/ZA102259198.png) no-repeat left top
+}
+.pmgGlobalPopupBl {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/620/587/ZA102259198.png) no-repeat left bottom
+}
+.pmgGlobalPopupTr {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/620/587/ZA102259198.png) no-repeat right top
+}
+.pmgGlobalPopupBr {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/620/587/ZA102259198.png) no-repeat right bottom
+}
+.pmgGlobalClear {
+	CLEAR: both
+}
+.pmgGlobalPopupToplayer {
+	POSITION: relative
+}
+.pmgGlobalPopupBottomlayer {
+	POSITION: relative
+}
+.pmgGlobalCornerPosTleft {
+	TOP: 0pt; LEFT: 0px
+}
+.pmgGlobalCornerPosTright {
+	Z-INDEX: -9999; TOP: 0pt; RIGHT: 0px
+}
+.pmgGlobalCornerPosBleft {
+	BOTTOM: 0pt; LEFT: 0pt
+}
+.pmgGlobalCornerPosBright {
+	BOTTOM: 0pt; RIGHT: 0pt
+}
+.pmgGlobalCloseImg {
+	POSITION: absolute; MARGIN-LEFT: 5px; CURSOR: pointer
+}
+#Ifrvideo {
+	BORDER-BOTTOM: gray 2px solid; BORDER-LEFT: gray 2px solid; BORDER-TOP: gray 2px solid; BORDER-RIGHT: gray 2px solid
+}
+.pmgGlobalPopupblurb {
+	PADDING-LEFT: 45px; FONT-SIZE: medium
+}
+.pmgGlobalPopupclose {
+	POSITION: absolute; PADDING-RIGHT: 64px; FONT-SIZE: 1.5em; TOP: 5px; RIGHT: 0px; PADDING-TOP: 5px
+}
+.pmgGlobalPopupVideocnt {
+	PADDING-BOTTOM: 10px; MARGIN-TOP: 35px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.pmgGlobalPopupVideocnt P {
+	align: center
+}
+.pmgGlobalPopupInnershell {
+	MARGIN: 20px
+}
+.Popupclose P {
+	MARGIN: 5px 10px 5px 0px
+}
+.pmgGlobalShowcasevid {
+	WIDTH: 640px; HEIGHT: 360px
+}
+.pmgGlobalAppShare SPAN {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom
+}
+.pmgGlobalAppShare UL {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom
+}
+.pmgGlobalAppShare SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; COLOR: #888; FONT-SIZE: 1.5em; PADDING-TOP: 0px
+}
+.pmgGlobalAppLikebtn {
+	POSITION: absolute; WIDTH: 50px; TOP: 0px; RIGHT: 0px
+}
+.pmgGlobalFBBtnLayout {
+	RIGHT: 70px
+}
+.pmgGlobalAppShare .pmgInlineButtons {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalAppShare .pmgInlineButtons LI {
+	DISPLAY: inline; LIST-STYLE-IMAGE: none
+}
+.pmgGlobalAppShare .pmgGlobalInlineButtons {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalAppShare .pmgGlobalInlineButtons LI {
+	DISPLAY: inline; LIST-STYLE-IMAGE: none
+}
+.pmgOscnPage {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: normal; PADDING-LEFT: 70px; WIDTH: 800px; PADDING-RIGHT: 70px; PADDING-TOP: 0px
+}
+.pmgOscnIcons {
+	TEXT-ALIGN: center; WIDTH: 100%
+}
+.pmgOscnIcons LI {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 60px; DISPLAY: inline-block; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+#pmgAppExcel {
+	MARGIN: auto; WIDTH: 940px; COLOR: #000000
+}
+#pmgAppExcel A {
+	COLOR: #0066cc
+}
+#pmgAppExcel H3 {
+	FONT-FAMILY: Segoe UI Semibold, Segoe UI, Sans-Serif; FONT-WEIGHT: normal
+}
+#pmgAppExcel H4 {
+	FONT-FAMILY: Segoe UI Semibold, Segoe UI, Sans-Serif; FONT-WEIGHT: normal
+}
+#pmgExcelCenteredHero {
+	MARGIN-TOP: 25px; WIDTH: 826px; HEIGHT: 273px
+}
+.pmgExcelModuleSmall {
+	WIDTH: 310px
+}
+#pmgExcelSmFeed {
+	POSITION: relative; MARGIN: 30px 0px 0px 10px
+}
+#pmgExcelSmTitle {
+	WIDTH: 300px; BACKGROUND: #fca822 0px 0px; HEIGHT: 25px; FONT-SIZE: 0.9em; FONT-WEIGHT: bold
+}
+#pmgExcelSmFeed A {
+	COLOR: #0066cc
+}
+#pmgExcelSmTitle A {
+	COLOR: #ffffff
+}
+#pmgExcelSmTitle LI {
+	LIST-STYLE: none none outside; PADDING-BOTTOM: 0px; MARGIN: 2px auto 2px 17px; PADDING-LEFT: 27px; PADDING-RIGHT: 0px; DISPLAY: inline-block; HEIGHT: 20px; VERTICAL-ALIGN: middle; PADDING-TOP: 2px
+}
+#pmgExcelSmFeed #pmgSmFeed {
+	MIN-HEIGHT: 140px; WIDTH: 300px
+}
+#pmgExcelSmFeed .pmgRssFeed {
+	WIDTH: 500px
+}
+#pmgExcelSmFeed .pmgRssLiveFeed {
+	MIN-HEIGHT: 300px
+}
+#pmgExcelSmFeed #pmgSmFeed {
+	MIN-HEIGHT: 140px; WIDTH: 300px
+}
+#pmgExcelSmFeed .pmgSmFeedEven {
+	BORDER-LEFT: #7fb2e5 1px solid; BACKGROUND-COLOR: #d9e8f7; BORDER-RIGHT: #7fb2e5 1px solid
+}
+#pmgExcelSmFeed .pmgRssFeed H4 {
+	COLOR: #98499e
+}
+#pmgAppExcel .pmgGlobalCarousel {
+	MARGIN-LEFT: 40px
+}
+#pmgAppExcel .pmgLeftJab40 {
+	MARGIN-LEFT: 40px
+}
+#pmgAppExcel .pmgGlobalLeftJab40 {
+	MARGIN-LEFT: 40px
+}
+#pmgAppExcel .pmgExcelOverrideRightCtn {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 35px; PADDING-RIGHT: 0px; BACKGROUND: 0px 0px; PADDING-TOP: 10px
+}
+.pmgExcelRightCol P {
+	PADDING-BOTTOM: 20px
+}
+#pmgExcelRule {
+	MARGIN-LEFT: 20px
+}
+.pmgExcelIcon {
+	PADDING-RIGHT: 5px; FLOAT: left
+}
+.pmgExcelModuleMedium #pmgRssFeatured {
+	BORDER-BOTTOM: #cccccc 1px solid; POSITION: relative; BORDER-LEFT: #7fb2e5 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; BACKGROUND: #d9e8f7 0px 0px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #7fb2e5 1px solid; PADDING-TOP: 0px
+}
+.pmgExcelModuleMedium #pmgRssFeatured IMG {
+	POSITION: absolute; LEFT: 30px
+}
+.pmgExcelModuleMedium #pmgRssFeatured P {
+	MARGIN: 0px 0px 0px 70px; PADDING-LEFT: 10px
+}
+#pmgAppExcel .pmgSmAuthor {
+	COLOR: #0066cc
+}
+#pmgAppExcel .pmgRssAuthor {
+	COLOR: #0066cc
+}
+.pmgExcelGreenTitle {
+	PADDING-BOTTOM: 24px; FONT-FAMILY: Segoe UI Semibold; COLOR: #2ba730; FONT-SIZE: 18px
+}
+.pmgExcelOfficeAnywhere {
+	PADDING-LEFT: 30px
+}
+#pmgExcelAnywhere A {
+	COLOR: #0066cc
+}
+#pmgExcelAnywhere {
+	MARGIN-BOTTOM: 30px; HEIGHT: 23px; PADDING-TOP: 4px
+}
+.pmgExcelOrangeBoxHead {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/749/577/ZA102420644.png) no-repeat center top; MARGIN-LEFT: 40px
+}
+.pmgExcelOrangeBoxCont {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/749/577/ZA102420644.png) no-repeat center bottom
+}
+.pmgGlobalSection7030 .pmgExcelRightCol {
+	WIDTH: 350px; FLOAT: left
+}
+.pmgExcelRightColList UL {
+	PADDING-BOTTOM: 15px; LIST-STYLE-TYPE: none
+}
+.pmgExcelRightColList LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 53px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.pmgExcelModuleSmall .pmgModuleBody {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/156/040/ZA102395439.png) repeat-y 0px 0px
+}
+.pmgExcelModuleMedium .pmgModuleBody {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/462/251/ZA102530377.png) repeat-y center top
+}
+#pmgExcelModuleBody .pmgRssFeed {
+	WIDTH: 814px
+}
+.pmgExcelModule820w {
+	WIDTH: 820px
+}
+.pmgExcelThirdColBG {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/366/819/ZA102532686.png) repeat-y left top
+}
+#pmgExcelThirdCol {
+	MARGIN-BOTTOM: 30px; OVERFLOW: auto
+}
+#pmgExcelThirdCol P {
+	LINE-HEIGHT: 1.7em
+}
+#pmgExcelThirdCol H4 {
+	PADDING-BOTTOM: 5px
+}
+.pmgExcelThirdColBox1 {
+	WIDTH: 270px
+}
+.pmgExcelThirdColBox2 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 33px; WIDTH: 250px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.pmgExcelThirdColBox3 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; WIDTH: 220px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 0px
+}
+.pmgExcelCarouselRText {
+	PADDING-RIGHT: 80px; DISPLAY: inline-block; FLOAT: right
+}
+.pmgExcelIconHeader {
+	POSITION: relative; WIDTH: 350px; HEIGHT: 63px
+}
+.pmgExcelIconTitle {
+	POSITION: absolute; TOP: -14px; LEFT: 70px
+}
+.pmgExcelIconButtons {
+	POSITION: absolute; TOP: 38px; LEFT: 70px
+}
+.pmgExcelExplore {
+	WIDTH: 100%; FLOAT: left
+}
+.pmgExcelExpCnt {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 160px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 5px
+}
+.pmgExcelExpRule {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.pmgGlobalCarousel {
+	WIDTH: auto; DISPLAY: none; HEIGHT: auto
+}
+.pmgGlobalCarousel #pmgGlobalCarouselLeftArrow {
+	FLOAT: left
+}
+.pmgGlobalCarousel #pmgGlobalCarouselRightArrow {
+	FLOAT: left
+}
+.pmgGlobalCarousel #filmstrip {
+	FLOAT: left
+}
+UL#filmstrip {
+	POSITION: relative; PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL#filmstrip LI {
+	MARGIN: 0px; DISPLAY: inline
+}
+.pmgGlobalCarouselThumbnail {
+	Z-INDEX: 2; FLOAT: left; MARGIN-LEFT: 10px; CURSOR: pointer; MARGIN-RIGHT: 10px; PADDING-TOP: 2px
+}
+.pmgGlobalCarouselThumbnailVisited {
+	Z-INDEX: 2; BACKGROUND: url(../images/green-tick-or-check-mark.jpg) no-repeat center center; FLOAT: left; MARGIN-LEFT: 10px; CURSOR: pointer; MARGIN-RIGHT: 10px; PADDING-TOP: 2px
+}
+.pmgGlobalCarouselThumbnailHover {
+	Z-INDEX: 2; BACKGROUND-COLOR: #fca822; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FLOAT: left; MARGIN-LEFT: 8px; CURSOR: pointer; MARGIN-RIGHT: 8px; PADDING-TOP: 2px
+}
+.pmgGlobalCarouselImgthumbnail {
+	Z-INDEX: 1; BORDER-BOTTOM: gray 4px solid; FILTER: alpha(opacity=50); BORDER-LEFT: gray 4px solid; WIDTH: 100px; HEIGHT: 100px; BORDER-TOP: gray 4px solid; CURSOR: pointer; BORDER-RIGHT: gray 4px solid; opacity: .50; -moz-opacity: .50
+}
+.pmgGlobalCarouselImgthumbnailHover {
+	Z-INDEX: 1; BORDER-BOTTOM: transparent 4px solid; BORDER-LEFT: transparent 4px solid; WIDTH: 100px; HEIGHT: 100px; BORDER-TOP: transparent 4px solid; CURSOR: pointer; BORDER-RIGHT: transparent 4px solid
+}
+.pmgGlobalCarouselFilmstrip {
+	POSITION: relative; OVERFLOW: hidden
+}
+.pmgGlobalCarouselFilmstrip {
+	PADDING-BOTTOM: 14px; DISPLAY: block; FLOAT: left; HEIGHT: auto; MARGIN-LEFT: 5px; OVERFLOW: hidden; MARGIN-RIGHT: 5px
+}
+.pmgGlobalCarouselNav {
+	POSITION: relative; WIDTH: 20px; DISPLAY: table-cell; HEIGHT: 100px; VERTICAL-ALIGN: middle; CURSOR: pointer
+}
+.pmgGlobalCarouselMiddleArrow {
+	POSITION: relative; MARGIN: auto; PADDING-LEFT: 4px; VERTICAL-ALIGN: middle; TOP: 40%
+}
+.pmgGlobalCarouselContent {
+	PADDING-LEFT: 32px; DISPLAY: block; FONT-FAMILY: Segoe UI; MARGIN-BOTTOM: 35px; HEIGHT: 38px; COLOR: #ffffff; MARGIN-LEFT: 40px; FONT-SIZE: 14px; VERTICAL-ALIGN: middle; PADDING-TOP: 10px
+}
+.pmgGlobalCarouselClear {
+	HEIGHT: 0px; CLEAR: both
+}
+.pmgGlobalCarouselArrow {
+	Z-INDEX: 999; POSITION: absolute; MARGIN-BOTTOM: 20px
+}
+.pmgGlobalCarouselText {
+	POSITION: absolute; DISPLAY: none
+}
+.pmgWhatisnewTopContent {
+	OVERFLOW: auto; PADDING-TOP: 35px
+}
+.pmgWhatisnewBoxHero {
+	PADDING-BOTTOM: 35px; PADDING-LEFT: 45px; WIDTH: 195px; PADDING-RIGHT: 20px; FLOAT: left; PADDING-TOP: 0px
+}
+.pmgWhatisnewTitle {
+	PADDING-BOTTOM: 25px; FONT-FAMILY: Segoe UI Light; FLOAT: left; COLOR: #000000; FONT-SIZE: 3em
+}
+.pmgWhatisnewTitleLayout {
+	WIDTH: 500px; FLOAT: left
+}
+.pmgWhatisnewTitleBold {
+	FONT-FAMILY: Segoe UI Semibold
+}
+.pmgWhatisnewBtnLayout {
+	PADDING-RIGHT: 8px; FLOAT: left
+}
+.pmgWhatisnewBtmContent {
+	MARGIN-LEFT: 35px; OVERFLOW: auto
+}
+.pmgWhatisnewTblHdl {
+	PADDING-BOTTOM: 23px; MARGIN-TOP: -10px; PADDING-LEFT: 12px; PADDING-RIGHT: 0px; FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 2em; PADDING-TOP: 0px
+}
+.pmgWhatisnewTbl {
+	BORDER-LEFT: #e2e2e2 1px solid; BORDER-SPACING: 0; WIDTH: 866px; BORDER-COLLAPSE: collapse
+}
+.pmgWhatisnewTblBorderRepeat {
+	POSITION: relative; MARGIN-TOP: 10px; PADDING-LEFT: 2px; WIDTH: 865px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/891/862/ZA102446954.png) repeat-y; FLOAT: left
+}
+.pmgWhatisnewTblBottomBorder {
+	WIDTH: 865px; MARGIN-BOTTOM: 20px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/564/618/ZA102459463.jpg) no-repeat left bottom; FLOAT: left; HEIGHT: 3px
+}
+.pmgWhatisnewColSpan65Hdl {
+	BORDER-BOTTOM: #cfcfcf 1px solid; BACKGROUND-COLOR: #e1e1e1; WIDTH: 65%
+}
+.pmgWhatisnewColSpan65 {
+	BORDER-BOTTOM: #e2e2e2 1px solid; BACKGROUND-COLOR: #f9f9f9; WIDTH: 65%
+}
+.pmgWhatisnewColSpan10 {
+	WIDTH: 10%
+}
+.pmgWhatisnewIconLayout {
+	PADDING-LEFT: 12px; WIDTH: 32px; PADDING-RIGHT: 15px
+}
+#pmgWhatisnewFootnote {
+	FONT-STYLE: italic; PADDING-LEFT: 50px; WIDTH: 825px; COLOR: #000000; FONT-SIZE: 1em; PADDING-TOP: 20px
+}
+.pmgWhatisnewAppName {
+	MARGIN-TOP: -40px; PADDING-LEFT: 59px; FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 1.8em
+}
+.pmgWhatisnewText {
+	PADDING-LEFT: 59px; FONT-FAMILY: Segoe UI Semibold; COLOR: #000000; FONT-SIZE: 1.2em
+}
+.pmgWhatisnewBlurb {
+	MARGIN-TOP: 10px; WIDTH: 400px
+}
+.pmgWhatisnewContent {
+	LINE-HEIGHT: 35px; PADDING-LEFT: 20px; FONT-FAMILY: Segoe UI; COLOR: #000000; FONT-SIZE: 1em
+}
+.pmgWhatisnewEvenCol1 {
+	BORDER-BOTTOM: #e2d3a1 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR: #ffe79b; BORDER-TOP: #fff0c2 1px solid; BORDER-RIGHT: white 2px solid
+}
+.pmgWhatisnewEvenCol2 {
+	BORDER-BOTTOM: #e2d3a1 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR: #fee8a2; BORDER-TOP: #fff0c2 1px solid; BORDER-RIGHT: white 2px solid
+}
+.pmgWhatisnewEvenCol3 {
+	BORDER-BOTTOM: #e2d3a1 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR: #fef3d1; BORDER-TOP: #fff0c2 1px solid; BORDER-RIGHT: #d3d3d3 2px solid
+}
+.pmgWhatisnewBtn {
+	MARGIN-TOP: -40px; PADDING-RIGHT: 19px; FLOAT: right
+}
+.pmgWhatisnewOddCol1 {
+	BORDER-BOTTOM: #e2d3a1 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR: #ffda66; BORDER-TOP: #fff0c2 1px solid; BORDER-RIGHT: white 2px solid
+}
+.pmgWhatisnewOddCol2 {
+	BORDER-BOTTOM: #e2d3a1 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR: #fef0c2; BORDER-TOP: #fff0c2 1px solid; BORDER-RIGHT: white 2px solid
+}
+.pmgWhatisnewOddCol3 {
+	BORDER-BOTTOM: #e2d3a1 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR: #fdecb8; BORDER-TOP: #fff0c2 1px solid; BORDER-RIGHT: #d3d3d3 2px solid
+}
+.pmgWhatisnewOptionSelection {
+	PADDING-BOTTOM: 4px; MARGIN-TOP: 4px; PADDING-LEFT: 4px; WIDTH: 198px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: -1px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/162/461/ZA102463868.png); FLOAT: right; MARGIN-RIGHT: 4px; PADDING-TOP: 0px
+}
+.pmgWhatisnewOffice2010 {
+	BORDER-BOTTOM: #fff0c2 1px solid; TEXT-ALIGN: center; BACKGROUND: url(http://officecms/sites/preview/en-us/files/948/922/ZA102463866.png); BORDER-RIGHT: white 2px solid
+}
+.pmgWhatisnewKey {
+	PADDING-LEFT: 7px; COLOR: #000000
+}
+.pmgWhatisnewTbl A {
+	COLOR: #000000
+}
+.pmgWhatisnewImgLayout {
+	PADDING-LEFT: 12px
+}
+#pmgWhatisnewHeaderImage {
+	WIDTH: 866px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/518/003/ZA102459279.png) no-repeat
+}
+#pmgWhatisnewCol3 {
+	BORDER-RIGHT: #d3d3d3 2px solid
+}
+#pmgAppOutlook {
+	MARGIN: auto; WIDTH: 940px; COLOR: #000000
+}
+#pmgAppOutlook A {
+	COLOR: #0066cc
+}
+#pmgAppOutlook H3 {
+	FONT-FAMILY: Segoe UI Semibold, Segoe UI, Sans-Serif; FONT-WEIGHT: normal
+}
+#pmgAppOutlook H4 {
+	FONT-FAMILY: Segoe UI Semibold, Segoe UI, Sans-Serif; FONT-WEIGHT: normal
+}
+#pmgAppOutlook .pmgGlobalLeftJab40 {
+	MARGIN-LEFT: 40px
+}
+#pmgAppOutlook .pmgOutlookOverrideRightCtn {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: white; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#pmgOutlookAnywhere {
+	TEXT-INDENT: 105px; WIDTH: 822px; MARGIN-BOTTOM: 21px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/909/886/ZA102501031.jpg) no-repeat center top; HEIGHT: 52px; PADDING-TOP: 10px
+}
+#pmgOutlookCenteredHero {
+	MARGIN-TOP: 25px; WIDTH: 826px; HEIGHT: 273px
+}
+.pmgOutlookModuleHeadline {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgOutlookModuleMedium .pmgModuleBody {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/413/855/ZA102407013.png) repeat-y center top
+}
+.pmgOutlookModuleTiny {
+	PADDING-BOTTOM: 35px; PADDING-LEFT: 30px; WIDTH: 280px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgOutlookOfficeAnywhereText1 {
+	FONT: 30px/30px "Segoe UI Light", sans-serif; COLOR: #606060
+}
+.pmgOutlookOfficeAnywhereText2 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; FONT: 30px/30px "Segoe UI Semibold", sans-serif; COLOR: #e77b1c; PADDING-TOP: 0px
+}
+#pmgOutlookBottomMods {
+	PADDING-TOP: 10px
+}
+.pmgOutlookBottomMod {
+	WIDTH: 240px; FLOAT: left
+}
+.pmgOutlookBottomModBg {
+	MARGIN: -3px 0px -8px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/177/906/ZA102473179.png) repeat-y center top
+}
+.pmgOutlookBottomModR {
+	MARGIN-LEFT: 20px
+}
+.pmgOutlookBottomHeader {
+	BORDER-BOTTOM: gray 1px dotted; WIDTH: 230px; MARGIN-LEFT: 4px
+}
+#pmgOutlookBottomMods .pmgOutlookBottomMod H3 {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 20px; PADDING-RIGHT: 5px; FONT-FAMILY: "Segoe UI Light", sans-serif; PADDING-TOP: 2px
+}
+#pmgOutlookBottomMods .pmgOutlookBottomMod UL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; PADDING-TOP: 15px
+}
+.pmgOutlookPadBot10 {
+	PADDING-BOTTOM: 10px
+}
+#pmgOutlookDemo {
+	POSITION: relative; WIDTH: 265px; PADDING-TOP: 15px
+}
+#pmgOutlookDemoImage A {
+	WIDTH: 239px; DISPLAY: block; BACKGROUND: url(http://officecms/sites/preview/en-us/files/454/049/ZA102501134.png) no-repeat -239px 0px; HEIGHT: 139px
+}
+#pmgOutlookDemoImage A:hover {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/454/049/ZA102501134.png) no-repeat left top
+}
+.pmgOutlookRightMod {
+	CLEAR: left; PADDING-TOP: 30px
+}
+.pmgOutlookRightMod P {
+	PADDING-TOP: 5px
+}
+.pmgOutlookRightMod2 {
+	PADDING-LEFT: 58px; WIDTH: 185px
+}
+.pmgOutlookRightModContentImg {
+	WIDTH: 44px; PADDING-RIGHT: 14px; FLOAT: left
+}
+.pmgOutlookRightModContentText {
+	WIDTH: 220px; FLOAT: left
+}
+#pmgOutlookDemoImage {
+	PADDING-LEFT: 13px
+}
+#pmgOutlookAnywhere A:link {
+	COLOR: #606060; TEXT-DECORATION: none
+}
+#pmgOutlookAnywhere A:visited {
+	COLOR: #606060; TEXT-DECORATION: none
+}
+#pmgOutlookAnywhere A:hover {
+	TEXT-DECORATION: none
+}
+#pmgOutlookHeroMapImage {
+	POSITION: relative; WIDTH: 821px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/508/547/ZA102470840.jpg) no-repeat left top; HEIGHT: 266px; OVERFLOW: hidden
+}
+#pmgOutlookHeroMapImage A {
+	POSITION: absolute; DISPLAY: block; TEXT-DECORATION: none
+}
+#pmgOutlookHeroMapImage A I {
+	VISIBILITY: hidden
+}
+A#pmgOutlookHeroClutterLink {
+	WIDTH: 255px; HEIGHT: 36px; TOP: 200px; LEFT: 20px
+}
+A#pmgOutlookHeroOnePlaceLink {
+	WIDTH: 195px; HEIGHT: 50px; TOP: 193px; LEFT: 580px
+}
+.pmgMobileInteractivePage {
+	MARGIN: auto; WIDTH: 920px
+}
+.pmgMobileInteractiveVideo {
+	WIDTH: 920px; HEIGHT: 680px
+}
+.pmgMobileInteractiveCTA1 {
+	DISPLAY: inline; FONT-SIZE: 2em
+}
+.pmgMobileInteractiveCTA2 {
+	DISPLAY: inline; FONT-SIZE: 1.5em
+}
+.pmgMobileNewsbitContainer {
+	MARGIN: 10px 0px 30px; WIDTH: 272px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/066/682/ZA102530231.jpg) no-repeat 0px 0px; FLOAT: left; HEIGHT: 168px; OVERFLOW: hidden
+}
+.pmgMobileNewsbitContent {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 260px; PADDING-RIGHT: 5px; FLOAT: left; HEIGHT: 161px; PADDING-TOP: 5px
+}
+.pmgMobileNewsbitContentImage {
+	WIDTH: 51px; FLOAT: left
+}
+.pmgMobileNewsbitContentText {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; WIDTH: 197px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 6px
+}
+.pmgMobile_NewsbitContentTextHeader {
+	FONT: 1.3em/1.3em "Segoe UI", Arial, Verdana, sans-serif
+}
+.pmgMobile_NewsbitContainerEnd {
+	CLEAR: left
+}
+.pmgMobileNewsbitContentText A {
+	LINE-HEIGHT: 1.5em
+}
+.pmgSmallBusiness4col {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 400px; PADDING-RIGHT: 0px; FONT-FAMILY: "Segoe UI", Arial, Verdana; VERTICAL-ALIGN: top; PADDING-TOP: 5px
+}
+.pmgSmallBusiness4colImage {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 80px; PADDING-RIGHT: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 4px
+}
+.pmgSmallBusiness4colHeader {
+	MARGIN-TOP: 4px; FONT-SIZE: 1.33em
+}
+.pmgSmallBusiness4colText {
+	PADDING-LEFT: 10px; WIDTH: 290px; FONT-SIZE: 1em
+}
+.pmgSmallBusinessFloatLeft {
+	FLOAT: left
+}
+.pmgSmallBusinessClearLeft {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 1px; CLEAR: left; FONT-SIZE: 0.08em; PADDING-TOP: 0px
+}
+.pmgAccess {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: normal; MARGIN: 0px 0px 0px 55px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; OVERFLOW: auto; PADDING-TOP: 0px
+}
+.pmgAccessTopContent {
+	POSITION: relative; MARGIN: 0px; OVERFLOW: hidden
+}
+.pmgAccessIcon {
+	MARGIN: 0px 13px 19px 0px; WIDTH: 47px; FLOAT: left
+}
+.pmgAccesAppNameLayout {
+	WIDTH: 400px; FLOAT: left
+}
+.pmgAccessAppName {
+	FONT-FAMILY: Segoe UI Semibold; COLOR: #000000; FONT-SIZE: 3.5em
+}
+.pmgAccessTopLeft {
+	WIDTH: 500px; FLOAT: left
+}
+.pmgAccessBtn {
+	WIDTH: 500px; PADDING-RIGHT: 17px; FLOAT: left
+}
+.pmgAccessBtnSpace {
+	PADDING-RIGHT: 10px
+}
+.pmgAccessAppYr {
+	FONT-FAMILY: Segoe UI Light
+}
+.pmgAccessTopRight {
+	POSITION: relative; MARGIN-TOP: 0px; WIDTH: 385px; FLOAT: left
+}
+.pmgAccessHero {
+	MARGIN-TOP: 5px; FLOAT: left
+}
+.pmgAccesHeroImage {
+	MARGIN-TOP: 20px; WIDTH: 821px; HEIGHT: 266px
+}
+.pmgAccessHeroBtmCnt {
+	MARGIN-TOP: 20px; WIDTH: 885px; FLOAT: left
+}
+.pmgAccessHeroBtmLft {
+	WIDTH: 30%; FLOAT: left; MARGIN-LEFT: 20px; OVERFLOW: auto
+}
+.pmgAccessHeroBtmLftImg {
+	MARGIN-BOTTOM: 30px; MARGIN-LEFT: 60px; PADDING-TOP: 10px
+}
+.pmgAccessHeroBtmText {
+	TEXT-ALIGN: center; MARGIN-TOP: -20px; FONT-FAMILY: Segoe UI; COLOR: #833262; FONT-SIZE: 1.8em
+}
+.pmgAccessHeroBtmMdl {
+	WIDTH: 30%; FLOAT: left
+}
+.pmgAccessHeroBtmRgt {
+	WIDTH: 30%; FLOAT: left
+}
+.pmgAccessHeroBtmRgt #LastImgDivider {
+	MARGIN-TOP: -100px; FLOAT: right
+}
+.pmgAccessBtmCntLft {
+	WIDTH: 500px; FLOAT: left
+}
+.pmgAccessBkgImg {
+	WIDTH: 489px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/686/001/ZA102503161.png) no-repeat; HEIGHT: 86px
+}
+.pmgAccessBtmCnt {
+	MARGIN-TOP: 30px; FLOAT: left
+}
+.pmgAccessBtmCntLft H3 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.pmgAccessBtmCntLft P {
+	PADDING-LEFT: 15px
+}
+#pmgAccessBtmCntLftSpace {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 10px
+}
+.pmgAccessBtmCntRgt {
+	MARGIN-TOP: 0px; FLOAT: left
+}
+.pmgAccessCntMod {
+	MARGIN-TOP: 30px; WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/313/076/ZA102503152.jpg) no-repeat; FLOAT: left; HEIGHT: 81px
+}
+.pmgAccessCntMod H4 {
+	MARGIN-TOP: 10px; FONT-FAMILY: Segoe UI Semibold; MARGIN-BOTTOM: 0px; FLOAT: left; COLOR: #ac3066; FONT-SIZE: 2.5em
+}
+.pmgAccessCntMod H4 SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; PADDING-TOP: 0px
+}
+.pmgAccessCntModTxt {
+	MARGIN-TOP: 10px; WIDTH: 350px; FONT-FAMILY: Segoe UI; FLOAT: left; COLOR: #000000; FONT-SIZE: 1em
+}
+.pmgAccessTicker {
+	MARGIN-TOP: -40px; PADDING-LEFT: 25px; WIDTH: 810px; HEIGHT: 30px
+}
+.pmgAccessTicker UL {
+	COLOR: #ffffff
+}
+.pmgAccessTicker LI {
+	LIST-STYLE-TYPE: none
+}
+.pmgAccess H3 {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; PADDING-TOP: 5px
+}
+.pmgAccessBtmCntLft P {
+	MARGIN-TOP: 0px; PADDING-LEFT: 15px; MARGIN-BOTTOM: 0px; PADDING-TOP: 7px
+}
+.pmgAccessHeroBtmText A {
+	COLOR: #833262
+}
+.pmgAccessBizMdlCnt {
+	MARGIN-TOP: 0px; WIDTH: 885px; FLOAT: left
+}
+.pmgAccessBizTbl {
+	BORDER-BOTTOM: #e2e2e2 1px solid; BORDER-LEFT: #e2e2e2 1px solid; BORDER-SPACING: 0; BORDER-COLLAPSE: collapse; BORDER-TOP: #e2e2e2 1px solid; BORDER-RIGHT: #e2e2e2 1px solid
+}
+.pmgAccessBizTblFirstCol {
+	BACKGROUND-COLOR: #ac3066; WIDTH: 200px; HEIGHT: 65px; COLOR: #ffffff; BORDER-RIGHT: #e2e2e2 1px solid
+}
+.pmgAccessBizTblSecCol {
+	BACKGROUND-COLOR: #f6eef2; WIDTH: 345px; HEIGHT: 65px; COLOR: #656565
+}
+.pmgAccessBizTblOddRow {
+	TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Segoe UI; HEIGHT: 40px; BORDER-TOP: #e2e2e2 1px solid
+}
+.pmgAccessBizTblEvenRow {
+	TEXT-ALIGN: left; BACKGROUND-COLOR: #f4f4f4; FONT-FAMILY: Segoe UI; HEIGHT: 40px; BORDER-TOP: #e2e2e2 1px solid
+}
+.pmgAccessBizTblRowFirstCol {
+	PADDING-LEFT: 10px; FONT-SIZE: 1.2em; BORDER-RIGHT: #e2e2e2 1px solid
+}
+.pmgAccessBizTblRowSecCol {
+	PADDING-LEFT: 10px; COLOR: #000000; FONT-SIZE: 1em
+}
+.pmgAccessBizLnkPad {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.pmgHipHopPanel {
+	POSITION: relative; WIDTH: 240px; BACKGROUND: #cccccc; HEIGHT: 300px; MARGIN-RIGHT: 5px
+}
+.pmgHipHopOverPanel {
+	POSITION: absolute; WIDTH: 200px; BACKGROUND: #123456; HEIGHT: auto
+}
+.pmgHipHopContent {
+	POSITION: absolute
+}
+.pmgPowerPoint {
+	LINE-HEIGHT: normal; MARGIN-LEFT: 30px
+}
+.pmgPowerPoint UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+.pmgPowerPoint A {
+	COLOR: #ffc20e; TEXT-DECORATION: none
+}
+#pmgPowerPointHero {
+	HEIGHT: 344px
+}
+.pmgPPTTopContent {
+	POSITION: relative; MARGIN-TOP: 90px; WIDTH: 300px; MARGIN-LEFT: 45px; TOP: -330px
+}
+#pmgPPThiphop1 P {
+	LINE-HEIGHT: 2em
+}
+#pmgPPThiphop2 P {
+	LINE-HEIGHT: 2em
+}
+#pmgPPThiphop3 P {
+	LINE-HEIGHT: 2em
+}
+#pmgPPThiphop4 P {
+	LINE-HEIGHT: 2em
+}
+.pmgPPTTopContent IMG {
+	VERTICAL-ALIGN: bottom
+}
+.pmgPPTTopContent LI {
+	FONT-FAMILY: "Segoe UI", Arial; FONT-SIZE: 18px
+}
+.pmgPPTTopContent A {
+	FONT-FAMILY: "Segoe UI", Arial; FONT-SIZE: 18px
+}
+#pmgPPTBlurb SPAN {
+	FONT-FAMILY: "Segoe UI", Arial; FONT-SIZE: 18px
+}
+#tickerSpace .pmgPPTTopContent A {
+	COLOR: #e76425
+}
+#pmgPPTBlurb A {
+	COLOR: #e76425
+}
+#tickerSpace {
+	POSITION: relative
+}
+.pmgPPTTopContent H2 {
+	LINE-HEIGHT: normal; WIDTH: 260px; FONT-FAMILY: "Segoe UI Light", Arial; MARGIN-BOTTOM: 10px; FONT-SIZE: 28px; FONT-WEIGHT: normal
+}
+.pmgPPTTopContent H3 {
+	LINE-HEIGHT: normal; WIDTH: 260px; FONT-FAMILY: "Segoe UI Light", Arial; MARGIN-BOTTOM: 10px; FONT-SIZE: 28px; FONT-WEIGHT: normal
+}
+.pmgPPTTopContent H3 {
+	FONT-SIZE: 40px
+}
+.pmgGlobalMargin00200000 {
+	MARGIN: 0px 20px 0px 0px
+}
+.pmgPPTTopContent UL {
+	LIST-STYLE-TYPE: square; COLOR: orange; MARGIN-LEFT: 18px
+}
+#pmgPowerPointHero H2 {
+	DISPLAY: inline; TOP: 0px; FONT-WEIGHT: normal; LEFT: 0px
+}
+#pmgPowerPointHero H1 {
+	DISPLAY: inline; TOP: 0px; FONT-WEIGHT: normal; LEFT: 0px
+}
+.pmgGlobalLeft00000095 {
+	MARGIN: 0px 0px 0px 95px
+}
+.pmgPPTBlurbModule SPAN {
+	FONT-SIZE: 20px
+}
+.pmgGlobalBtmMargin23 {
+	MARGIN-BOTTOM: 23px
+}
+UL#hiphopGroup {
+	WIDTH: 900px
+}
+UL#pmgThirdBlockList {
+	WIDTH: 900px
+}
+#secondBlock {
+	CLEAR: both; OVERFLOW: hidden
+}
+#thirdBlock {
+	CLEAR: both; OVERFLOW: hidden
+}
+.pmgHipHopPanel {
+	CLEAR: both; OVERFLOW: hidden
+}
+UL#pmgThirdBlockList {
+	MARGIN-LEFT: 11px
+}
+UL#hiphopGroup LI {
+	DISPLAY: inline-block; FLOAT: left; MARGIN-RIGHT: 16px
+}
+UL#pmgThirdBlockList LI {
+	DISPLAY: inline-block; FLOAT: left; MARGIN-RIGHT: 16px
+}
+#pmgPPTFBplugin {
+	WIDTH: 100px; HEIGHT: 30px
+}
+#hiphopGroup #hiphop1 {
+	DISPLAY: none
+}
+#hiphopGroup #hiphop2 {
+	DISPLAY: none
+}
+#hiphopGroup #hiphop3 {
+	DISPLAY: none
+}
+#hiphopGroup #hiphop4 {
+	DISPLAY: none
+}
+#hiphopGroup #pmgPPThiphop1 {
+	DISPLAY: none
+}
+#hiphopGroup #pmgPPThiphop2 {
+	DISPLAY: none
+}
+#hiphopGroup #pmgPPThiphop3 {
+	DISPLAY: none
+}
+#hiphopGroup #pmgPPThiphop4 {
+	DISPLAY: none
+}
+UL#pmgThirdBlockList LI {
+	WIDTH: 202px; MARGIN-LEFT: 5px
+}
+.pmgPowerPoint .pmgHipHopOverPanel {
+	FILTER: 0; BACKGROUND: url(http://officecms/sites/preview/en-us/files/699/654/ZA102547250.png) no-repeat 15px 0px
+}
+.pmgHipHopOverPanel .pmgOverlayContent {
+	MARGIN: 10px 10px 10px 25px
+}
+UL#thirdBlock {
+	MARGIN: 10px 10px 10px 25px
+}
+.pmgHipHopOverPanel .pmgPowerPointLabel {
+	MARGIN: 0px; FONT-FAMILY: "Segoe UI Semibold", Arial; COLOR: white; FONT-SIZE: 14px
+}
+#thirdBlock .pmgPowerPointSubHeadline {
+	COLOR: #414042; FONT-WEIGHT: normal
+}
+#heroTopContent H2 {
+	COLOR: #414042; FONT-WEIGHT: normal
+}
+.pmgHipHopOverPanel P {
+	FONT-SIZE: 13px
+}
+#thirdBlock P {
+	FONT-SIZE: 13px
+}
+#thirdBlock P {
+	COLOR: white
+}
+#thirdBlock H2 {
+	COLOR: white
+}
+#thirdBlock {
+	WIDTH: 881px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/454/957/ZA102559549.jpg) no-repeat; HEIGHT: 135px
+}
+.pmgPPTTopContent DIV {
+	FONT-SIZE: 18px
+}
+#thirdBlock .pmgPowerPointSubHeadline {
+	FONT-FAMILY: "Segoe UI Semibold", Arial; COLOR: white; FONT-SIZE: 14px
+}
+#thirdBlock UL {
+	MARGIN-TOP: 20px
+}
+.pmgPPTDefaultsubNav {
+	PADDING-BOTTOM: 5px; MARGIN: 0px 0px 0px 5px; PADDING-LEFT: 5px; WIDTH: 13px; PADDING-RIGHT: 5px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/037/515/ZA102547426.png) no-repeat 50% 10%; FLOAT: left; HEIGHT: auto; PADDING-TOP: 3px
+}
+#pmgPPTNavigation A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px; COLOR: black
+}
+#pmgPPTNavigation A.pmgPPTSelectedNav {
+	COLOR: white
+}
+.pmgPPTSelectedNav {
+	MARGIN: 0px 0px 0px 5px; WIDTH: 13px; DISPLAY: inline; BACKGROUND: url(http://officecms/sites/preview/en-us/files/941/231/ZA102547425.png) no-repeat; FLOAT: left; HEIGHT: auto
+}
+.pmgPPTNavClass {
+	POSITION: absolute; TEXT-ALIGN: center; BACKGROUND-COLOR: transparent; WIDTH: 90px; TOP: 300px; LEFT: 786px
+}
+#pmgAppOfficeWebApps .pmgWebAppsLeftJab70 {
+	MARGIN-LEFT: 70px
+}
+.pmgWebAppsEmbeddedBG {
+	MARGIN-TOP: 30px; PADDING-LEFT: 53px; WIDTH: 511px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/668/324/ZA102503452.png) no-repeat left top; HEIGHT: 401px
+}
+.pmgWebApps15em {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: "Segoe UI Semibold", sans-serif; COLOR: #58595b; FONT-SIZE: 1.5em; PADDING-TOP: 10px
+}
+#pmgWebAppsScenarios {
+	MARGIN: 80px 70px 0px 40px; WIDTH: 269px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/262/003/ZA102503459.png) no-repeat left top; HEIGHT: 331px; COLOR: #414042; FONT-SIZE: 120%
+}
+.pmgWebAppsScenariosHeader {
+	PADDING-BOTTOM: 35px; PADDING-LEFT: 20px; PADDING-RIGHT: 10px; FONT-FAMILY: "Segoe UI Light", sans-serif; FONT-SIZE: 1.45em; PADDING-TOP: 27px
+}
+#pmgWebAppsScenarios P {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 25px; PADDING-RIGHT: 20px; FONT-FAMILY: "Segoe UI Regular", sans-serif; FONT-SIZE: 1.1em; PADDING-TOP: 10px
+}
+#pmgWebAppsTernaryBoxes {
+	PADDING-BOTTOM: 25px; PADDING-LEFT: 100px; WIDTH: 765px; PADDING-RIGHT: 100px; CLEAR: left; OVERFLOW: auto; PADDING-TOP: 25px
+}
+.pmgWebAppsTernaryBoxDivider {
+	MARGIN: 10px 36px; WIDTH: 1px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/083/138/ZA102503460.png) no-repeat left top; FLOAT: left; HEIGHT: 201px
+}
+.pmgWebAppsTernaryBox .pmgGlobalLeftCol {
+	WIDTH: 205px; FLOAT: left
+}
+.pmgWebAppsTernaryBox .pmgGlobalMiddleCol {
+	WIDTH: 205px; FLOAT: left
+}
+.pmgWebAppsTernaryBox .pmgGlobalRightCol {
+	WIDTH: 205px; FLOAT: left
+}
+.pmgAccessBasicsCnt {
+	MARGIN: 15px 0px 0px -10px; WIDTH: 100%; FLOAT: left
+}
+.pmgAccessBasicsLftCnt {
+	WIDTH: 293px; MARGIN-BOTTOM: 10px; FLOAT: left
+}
+.pmgAccessBasicsImgSpc {
+	MARGIN: 10px 0px 0px
+}
+.pmgAccessBasicsRgtCnt {
+	WIDTH: 500px; FLOAT: left; MARGIN-LEFT: 70px
+}
+.pmgAccessBasicsTitle {
+	WIDTH: 450px; FONT-FAMILY: Segoe UI Light; FLOAT: left; COLOR: #000000; FONT-SIZE: 2.6em; PADDING-TOP: 10px
+}
+.pmgAccessBasicsTitle SPAN {
+	FONT-FAMILY: Segoe UI; COLOR: #ac3066
+}
+#pmgAccessBasicsTitleLyt {
+	PADDING-TOP: 30px
+}
+.pmgAccessBasicsTxt {
+	WIDTH: 450px; FLOAT: left; COLOR: #000000; FONT-SIZE: 1.2em
+}
+.pmgAccessBasicsCnt LI {
+	COLOR: #ac3066; PADDING-TOP: 5px
+}
+.pmgAccessBasicsCnt UL {
+	MARGIN-TOP: 0px; PADDING-LEFT: 15px; WIDTH: 450px; FLOAT: left; MARGIN-LEFT: 0px; FONT-SIZE: 1.2em
+}
+.pmgAccessBasicsCnt LI SPAN {
+	COLOR: #000000
+}
+.pmgAccessBasicTabCnt {
+	WIDTH: 885px; FLOAT: left
+}
+#pmgAccessTabCtrl {
+	BORDER-BOTTOM: gray 1px solid; BORDER-LEFT: gray 1px solid; WIDTH: 820px; DISPLAY: none; OVERFLOW: hidden; BORDER-TOP: gray 1px solid; BORDER-RIGHT: gray 1px solid
+}
+.pmgGlobalTabCtrl {
+	BORDER-BOTTOM: gray 1px solid; BORDER-LEFT: gray 1px solid; WIDTH: 820px; DISPLAY: none; OVERFLOW: hidden; BORDER-TOP: gray 1px solid; BORDER-RIGHT: gray 1px solid
+}
+#pmgAccessTabCtrl UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgGlobalTabCtrl UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#pmgAccessTabCtrl LI {
+	BORDER-BOTTOM: gray 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #f6eef2; PADDING-LEFT: 0px; WIDTH: 160px; PADDING-RIGHT: 0px; HEIGHT: 55px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.pmgGlobalTabCtrl LI {
+	BORDER-BOTTOM: gray 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #f6eef2; PADDING-LEFT: 0px; WIDTH: 160px; PADDING-RIGHT: 0px; HEIGHT: 55px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#pmgAccessTabCtrl LI:hover {
+	CURSOR: pointer
+}
+.pmgGlobalTabCtrl LI:hover {
+	CURSOR: pointer
+}
+#pmgAccessTabCtrl .pmgGlobalTabLiSelected {
+	BACKGROUND-COLOR: #ac3066
+}
+.pmgGlobalTabCtrl .pmgGlobalTabLiSelected {
+	BACKGROUND-COLOR: #ac3066
+}
+#pmgAccessTabCtrl .pmgGlobalTabLiHover {
+	BACKGROUND-COLOR: #e8d9e0
+}
+.pmgGlobalTabCtrl .pmgGlobalTabLiHover {
+	BACKGROUND-COLOR: #e8d9e0
+}
+#pmgAccessTabCtrl #pmgGlobalTabContent {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: 1px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 296px; MARGIN-LEFT: 50px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.pmgGlobalTabCtrl #pmgGlobalTabContent {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: 1px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 296px; MARGIN-LEFT: 50px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#pmgAccessTabCtrl .pmgGlobalTabBorderBottomMost {
+	BORDER-BOTTOM-WIDTH: 0px
+}
+.pmgGlobalTabCtrl .pmgGlobalTabBorderBottomMost {
+	BORDER-BOTTOM-WIDTH: 0px
+}
+#pmgAccessTabCtrl .pmgGlobalTabBorderRightMost {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.pmgGlobalTabCtrl .pmgGlobalTabBorderRightMost {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.pmgAccessBasicsCarouselHdl {
+	MARGIN-TOP: 10px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 0px; COLOR: #ac3066; FONT-SIZE: 1.5em
+}
+.pmgAccessBasicsBtmCnt {
+	FLOAT: left
+}
+.pmgAccessBasicsBkgLearnMore {
+	WIDTH: 211px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/108/774/ZA102507548.jpg) no-repeat; FLOAT: left; HEIGHT: 167px
+}
+.pmgAccessBasicsBkgCustomize {
+	WIDTH: 307px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/330/071/ZA102507602.jpg) no-repeat; FLOAT: left; HEIGHT: 167px; MARGIN-RIGHT: 20px
+}
+.pmgAccessBasicsBtmCnt UL {
+	PADDING-LEFT: 15px; MARGIN-LEFT: 0px
+}
+.pmgAccessBasicsBtmCnt LI {
+	LIST-STYLE-TYPE: none
+}
+.pmgAccessIntroHdl {
+	MARGIN-TOP: 10px; WIDTH: 680px; FONT-FAMILY: Segoe UI Light; FLOAT: left; COLOR: #000000; FONT-SIZE: 3em
+}
+.pmgAccessIntroHdl SPAN {
+	FONT-FAMILY: Segoe UI; COLOR: #ac3066
+}
+.pmgAccessBasicsCarousel {
+	WIDTH: 885px; FLOAT: left
+}
+.pmgAccessbasicsCarouselLft {
+	WIDTH: 650px; FLOAT: left
+}
+.pmgAccessbasicsCarouselRgt {
+	MARGIN-TOP: 25px; WIDTH: 150px; FLOAT: left
+}
+.pmgAccess .pmgGlobalBigBoxHead {
+	MARGIN-LEFT: 0px
+}
+.pmgAccess .pmgExcelOrangeBoxCont {
+	MARGIN-LEFT: 0px
+}
+.pmgAccessIntroHdl P {
+	MARGIN-TOP: 0px; FONT-FAMILY: Segoe UI; FONT-SIZE: 0.4em
+}
+.pmgAccessIntroHdl P SPAN {
+	COLOR: #ac3066; FONT-SIZE: 1.5em
+}
+.pmgAccess H1 {
+	MARGIN: 0px; FONT-FAMILY: Segoe UI Light; COLOR: #000000; FONT-SIZE: 3em; FONT-WEIGHT: normal
+}
+.pmgAccess H1 SPAN {
+	FONT-FAMILY: Segoe UI; COLOR: #ac3066
+}
+.pmgAccessBizHero {
+	WIDTH: 885px; MARGIN-BOTTOM: 30px; FLOAT: left
+}
+.pmgAccessBizHeroImg {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+.pmgAccessBizHeroImg A {
+	COLOR: #ffc200; MARGIN-LEFT: 15px; FONT-SIZE: 1.1em
+}
+.pmgAccessBizHeroImg P {
+	MARGIN-TOP: -95px; WIDTH: 245px; MARGIN-BOTTOM: 5px; COLOR: #ffffff; MARGIN-LEFT: 15px; FONT-SIZE: 1.4em
+}
+.pmgAccessBizHero P {
+	MARGIN-TOP: -95px; WIDTH: 245px; COLOR: #ffffff; MARGIN-LEFT: 15px; FONT-SIZE: 1.4em
+}
+.pmgAccessBizHero A {
+	COLOR: #ffc200; MARGIN-LEFT: 15px; FONT-SIZE: 1em
+}
+.pmgAccessBizBtmCntLft {
+	WIDTH: 545px; FLOAT: left
+}
+.pmgAccessBizBtmCntRgt {
+	WIDTH: 310px; FLOAT: left; MARGIN-LEFT: 30px
+}
+.pmgAccessBizBtmCntRgtHdl {
+	FONT-FAMILY: Segoe UI Semibold; COLOR: #000000; FONT-SIZE: 1.4em
+}
+.pmgAccessBizBtmCntRgtQuotes {
+	FONT-FAMILY: Segoe UI; FONT-SIZE: 1.2em; FONT-WEIGHT: bold
+}
+.pmgAccessBizBtmCntRgtQuotes SPAN {
+	FONT-FAMILY: Segoe UI Light; FONT-WEIGHT: normal
+}
+.pmgAccessBizBtmCntRgtGS {
+	MARGIN-TOP: 40px
+}
+.pmgAccessBizBtmCntRgtGS LI {
+	LINE-HEIGHT: 1.5em; LIST-STYLE-TYPE: none
+}
+.pmgAccessBizBtmCntRgtGS UL {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 0px
+}
+.pmgAccessBizBtmCnt {
+	WIDTH: 100%; FLOAT: left
+}
+.pmgAccessBizTblColPadOne {
+	PADDING-TOP: 10px
+}
+.pmgAccessBizTblColPadTwo {
+	PADDING-TOP: 8px
+}
+.pmgAccessBizTblColPadThree {
+	PADDING-TOP: 4px
+}
+.pmgAccessBizTblTopRow {
+	TEXT-ALIGN: center; FONT-FAMILY: Segoe UI Semibold; FONT-SIZE: 1.75em
+}
+#pmgWebAppsInteractiveHero {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 70px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 331px; OVERFLOW: visible; PADDING-TOP: 35px
+}
+#pmgWebAppsHero {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/883/158/ZA102503465.png) no-repeat left top; HEIGHT: 290px
+}
+.pmgWebAppsHeader {
+	PADDING-LEFT: 28px; FONT-FAMILY: "Segoe UI Light", sans-serif; COLOR: #58595b; FONT-SIZE: 26px; PADDING-TOP: 7px
+}
+.pmgWebAppsSubhead {
+	PADDING-LEFT: 28px; FONT-FAMILY: "Segoe UI", sans-serif; COLOR: #58595b; FONT-SIZE: 13px
+}
+#pmgWebAppsTickerSpace {
+	PADDING-TOP: 2px
+}
+#pmgWebAppsList {
+	TOP: 10px
+}
+#pmgWebAppsList LI {
+	LIST-STYLE-TYPE: none; DISPLAY: inline; FLOAT: left
+}
+.pmgWebApps20mtop {
+	MARGIN-TOP: 20px
+}
+.pmgWebAppsBlurbBG1 {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/310/916/ZA102514198.png) no-repeat left top; HEIGHT: 228px
+}
+.pmgWebAppsBlurbBG2 {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/924/783/ZA102514280.png) no-repeat left top; HEIGHT: 228px
+}
+.pmgWebAppsBlurbBG3 {
+	WIDTH: 820px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/373/592/ZA102514284.png) no-repeat left top; HEIGHT: 228px
+}
+.pmgWebAppsBlurbContent {
+	PADDING-LEFT: 28px; WIDTH: 275px
+}
+.pmgWebAppsBlurbHeader {
+	FONT-FAMILY: "Segoe UI Light", sans-serif; COLOR: #fca822; FONT-SIZE: 20px
+}
+.pmgWebAppsBlurbText {
+	FONT-FAMILY: "Segoe UI", sans-serif; COLOR: #58595b; FONT-SIZE: 15px
+}
+#pmgWebAppsNavigation {
+	POSITION: relative; WIDTH: 920px; HEIGHT: 103px; TOP: -62px; LEFT: -55px
+}
+.pmgWebAppsNavigationDivs {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #fca822; HEIGHT: 40px; COLOR: #fff; VERTICAL-ALIGN: top
+}
+.pmgWebAppsNavPL {
+	POSITION: absolute; WIDTH: 273px; CURSOR: pointer
+}
+.pmgWebAppsNav1pl {
+	TOP: 62px; LEFT: 55px
+}
+.pmgWebAppsNav2pl {
+	TOP: 62px; LEFT: 329px
+}
+.pmgWebAppsNav3pl {
+	TOP: 62px; LEFT: 603px
+}
+.pmgWebAppsNavTitle {
+	FONT-FAMILY: "Segoe UI", sans-serif; FONT-SIZE: 18px; PADDING-TOP: 7px
+}
+.pmgWebAppsNavigationSpanPL {
+	POSITION: absolute; VISIBILITY: hidden
+}
+.pmgWebAppsNavigationSpan1 {
+	TOP: -46px; LEFT: -42px
+}
+.pmgWebAppsNavigationSpan2 {
+	TOP: -46px; LEFT: 100px
+}
+.pmgWebAppsNavigationSpan3 {
+	TOP: -46px; LEFT: 249px
+}
+.pmgWebAppsSelectedNav {
+	DISPLAY: inline; COLOR: #000
+}
+.pmgWebAppsSelectedSpan {
+	VISIBILITY: visible
+}
+#pmgWebAppsBody {
+	WIDTH: 920px; DISPLAY: inline-block
+}
+#pmgOWAVideoThumbnail A {
+	WIDTH: 194px; DISPLAY: block; BACKGROUND: url(http://officecms/sites/preview/en-us/files/808/807/ZA102514290.png) no-repeat -194px 0px; HEIGHT: 158px
+}
+#pmgOWAVideoThumbnail A:hover {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/808/807/ZA102514290.png) no-repeat left top
+}
+A#pmgWebAppsImageMap {
+	WIDTH: 820px; HEIGHT: 287px; TOP: 35px; LEFT: 69px
+}
+#pmgWebAppsHero A {
+	Z-INDEX: 1000; POSITION: absolute; DISPLAY: block; TEXT-DECORATION: none
+}
+#pmgWebAppsHero A I {
+	VISIBILITY: hidden
+}
+.pmgWebAppsSubhead H1 {
+	FONT-SIZE: 13px; FONT-WEIGHT: normal
+}
+UL.pmgGlobalLeftBorder {
+	FLOAT: left; BORDER-RIGHT: gray 1px solid
+}
+UL.pmgGlobalRightBorder {
+	BORDER-LEFT: gray 1px solid; FLOAT: left
+}
+UL.pmgGlobalTopBorder {
+	BORDER-BOTTOM: gray 1px solid
+}
+UL.pmgGlobalBottomBorder {
+	BORDER-TOP: gray 1px solid
+}
+.pmgGlobalTabOverlay {
+	Z-INDEX: 0; POSITION: absolute; WIDTH: 162px; HEIGHT: 100%
+}
+.pmgGlobalTabOverlaySelected {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/503/571/ZA102519233.png) no-repeat 0px 50%; RIGHT: 5px
+}
+SPAN.pmgGlobalTabLabel {
+	Z-INDEX: 2; POSITION: relative; TOP: 20%; LEFT: 0px
+}
+SPAN.pmgGlobalTabLabelSelected {
+	Z-INDEX: 2; COLOR: #fff
+}
+LI.pmgGlobalVerticalTab {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 129px; PADDING-RIGHT: 0px; DISPLAY: table-cell; FLOAT: left; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT: gray 1px solid; PADDING-TOP: 0px
+}
+.pmgGlobalTabContent {
+	
+}
+.pmgGlobalTabContainer P {
+	DISPLAY: none
+}
+.pmgGlobalTabClear {
+	HEIGHT: 0px; CLEAR: both
+}
+.pmgAccessTabContentAlign {
+	POSITION: absolute; TOP: 10px
+}
+#pmgBizMergeTabCtrl {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 884px; DISPLAY: none; OVERFLOW: hidden; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#pmgBizMergeTabCtrl UL {
+	POSITION: relative; PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#pmgBizMergeTabCtrl #pmgGlobalTabContent {
+	PADDING-BOTTOM: 0px; OVERFLOW-Y: hidden; MARGIN-TOP: 1px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 296px; MARGIN-LEFT: 50px; PADDING-TOP: 0px
+}
+#pmgBizMergeTabCtrl .pmgUnSelectedRight {
+	Z-INDEX: 0; BACKGROUND: url(http://officecms/sites/preview/en-us/files/243/127/ZA102545691.png) no-repeat 0px 5px; RIGHT: 6px
+}
+#pmgBizMergeTabCtrl .pmgUnSelectedLeft {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/250/235/ZA102545690.png) no-repeat 0px 5px; LEFT: 0px
+}
+#pmgBizMergeTabCtrl .pmgSelectedLeft {
+	Z-INDEX: 1; BACKGROUND: url(http://officecms/sites/preview/en-us/files/350/713/ZA102545695.png) no-repeat; LEFT: 0px
+}
+#pmgBizMergeTabCtrl .pmgSelectedRight {
+	Z-INDEX: 1; BACKGROUND: url(http://officecms/sites/preview/en-us/files/987/747/ZA102545689.png) no-repeat; RIGHT: -9px
+}
+#pmgBizMergeTabCtrl .pmgGlobalTabOverlay {
+	WIDTH: 461px; HEIGHT: 76px
+}
+#pmgBizMergeTabCtrl LI {
+	BORDER-BOTTOM: transparent 0px solid; BORDER-LEFT: transparent 0px solid; BACKGROUND-COLOR: transparent; BORDER-TOP: transparent 0px solid; BORDER-RIGHT: transparent 0px solid
+}
+#pmgBizMergeTabCtrl LI.pmgGlobalVerticalTab {
+	TEXT-ALIGN: left; HEIGHT: 76px; CURSOR: pointer
+}
+#pmgBizMergeTabCtrl #pmgGlobalTabContent {
+	BORDER-BOTTOM: gray 1px solid; BORDER-LEFT: gray 1px solid; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; MARGIN-LEFT: 0px; OVERFLOW: auto; BORDER-TOP: medium none; BORDER-RIGHT: gray 1px solid; PADDING-TOP: 0px
+}
+#pmgBizMergeTabCtrl UL.pmgGlobalTopBorder {
+	BORDER-BOTTOM: medium none
+}
+#pmgBizMergeTabCtrl UL.pmgGlobalRightBorder {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.pmgFreeOffice {
+	MARGIN: 0px 0px 0px 25px; FONT-FAMILY: Segoe UI; FLOAT: left
+}
+.pmgFreeOffice H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; FONT-FAMILY: Segoe UI Semibold; FONT-SIZE: 2.4em; PADDING-TOP: 1px
+}
+.pmgFreeOfficeIntro {
+	PADDING-BOTTOM: 0px; MARGIN: 20px 0px; PADDING-LEFT: 15px; WIDTH: 580px; PADDING-RIGHT: 0px; FONT-SIZE: 1.3em; PADDING-TOP: 0px
+}
+.pmgFreeOfficeHero {
+	WIDTH: 100%; FLOAT: left
+}
+.pmgFreeOfficeLyt {
+	MARGIN: 0px 15px 0px 0px
+}
+.pmgFreeOfficeBtmCnt {
+	MARGIN: 30px 0px 0px 40px; WIDTH: 860px; FLOAT: left
+}
+.pmgFreeOfficeBtmCntLyt {
+	WIDTH: 33%; FLOAT: left
+}
+.pmgFreeOfficeImg {
+	FLOAT: left
+}
+.pmgFreeOfficeLnks {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; WIDTH: 175px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+.pmgFreeOffice P {
+	MARGIN: 5px 0px; FONT-FAMILY: Segoe UI Semibold; FONT-SIZE: 1.4em
+}
+.pmgFreeOfficeBtmCnt A {
+	LINE-HEIGHT: 1.5em; FONT-SIZE: 1.2em
+}
+#pmgBusinessContent {
+	PADDING-LEFT: 30px
+}
+#pmgBusinessContent H3 {
+	FONT-SIZE: 1.5em
+}
+.pmgBusinessMod880 {
+	WIDTH: 885px; CLEAR: both
+}
+#pmgBusinessTabbedModule {
+	MARGIN-TOP: 10px
+}
+.pmgBusinessTabbedText {
+	FONT-SIZE: 1.3em
+}
+.pmgBusinessTabbedHeader {
+	LINE-HEIGHT: normal; FONT-SIZE: 1.4em
+}
+#pmgBusinessTabbedModule #pmgBizMergeTabCtrl #pmgGlobalTabContent {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 17px
+}
+#pmgBizMergeTabCtrl #pmgGlobalTabContent {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/186/595/ZA102547357.png) no-repeat left top
+}
+#pmgBizMergeTabCtrl IMG {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 40px; PADDING-RIGHT: 15px; PADDING-TOP: 3px
+}
+#pmgBizMergeTabCtrl .pmgBizTabHeader {
+	FONT: 24px "Segoe UI Semibold", sans-serif; COLOR: #fbad22
+}
+#pmgBizMergeTabCtrl .pmgBizTabHeader {
+	FONT: 24px "Segoe UI Semibold", sans-serif; COLOR: #878787; CURSOR: pointer
+}
+#pmgBizMergeTabCtrl .pmgBizTabHeaderFLeft {
+	FLOAT: left
+}
+#pmgBizMergeTabCtrl .pmgBizTabHeaderGray {
+	COLOR: #878787
+}
+#pmgBizMergeTabCtrl .pmgBizTabHeaderLeft {
+	FONT: 24px "Segoe UI Semibold", sans-serif; COLOR: #fbad22; VERTICAL-ALIGN: 20px
+}
+#pmgBizMergeTabCtrl .pmgBizTabHeaderRight {
+	WIDTH: 300px; FONT: 22px/1em "Segoe UI Semibold", sans-serif; COLOR: #fbad22
+}
+#pmgBizMergeTabCtrl .pmgBizTabHeaderGrayText {
+	LINE-HEIGHT: 1em; COLOR: #878787
+}
+#pmgBizMergeTabCtrl .pmgBusinessTabbedText {
+	COLOR: #454545
+}
+#pmgBizMergeTabCtrl .pmgBusinessTabbedHeader {
+	COLOR: #454545
+}
+#pmgBizMergeTabCtrl .pmgGlobalTabLabel {
+	TOP: 15%
+}
+#pmgBusinessCarousel {
+	PADDING-TOP: 30px
+}
+#pmgBusinessCarousel .pmgGlobalCarousel {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 43px; PADDING-RIGHT: 0px; PADDING-TOP: 15px
+}
+#pmgBusinessCarousel .pmgGlobalCarouselImgthumbnail {
+	WIDTH: 160px
+}
+.pmgBusinessCarouselHeader {
+	PADDING-LEFT: 15px; COLOR: #787878; FONT-SIZE: 18px
+}
+#pmgBusinessHipHop {
+	POSITION: relative; HEIGHT: 270px
+}
+#pmgBusinessHipHop .pmgHipHopPanel {
+	POSITION: absolute; WIDTH: 276px; HEIGHT: 271px; TOP: 0px
+}
+#pmgBusinessHipHop .pmgHipHopOverPanel {
+	WIDTH: 246px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/699/088/ZA102545511.png) no-repeat left top; COLOR: #fff
+}
+#pmgBusinessHipHop .pmgHipHopOverPanel H3 {
+	PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 4px
+}
+#pmgBusinessHipHop .pmgHipHopOverPanel P {
+	PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 4px
+}
+#pmgBusinessHipHop .pmgHipHopOverPanel A:link {
+	COLOR: #ff9720; TEXT-DECORATION: none
+}
+#pmgBusinessHipHop .pmgHipHopOverPanel A:active {
+	COLOR: #ff9720; TEXT-DECORATION: none
+}
+#pmgBusinessHipHop .pmgHipHopOverPanel A:visited {
+	COLOR: #ff9720; TEXT-DECORATION: none
+}
+#pmgBusinessHipHop .pmgHipHopOverPanel A:hover {
+	TEXT-DECORATION: underline
+}
+#pmgBusinessHipHop A:link {
+	COLOR: #00aeef
+}
+#pmgBusinessHipHop A:visited {
+	COLOR: #00aeef
+}
+#pmgBusinessHipHop A:hover {
+	COLOR: #00aeef
+}
+#pmgBusinesshiphop1 {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/657/630/ZA102538956.jpg) no-repeat left top; LEFT: 0px
+}
+#pmgBusinesshiphop2 {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/989/184/ZA102538964.jpg) no-repeat left top; LEFT: 305px
+}
+#pmgBusinesshiphop3 {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/895/360/ZA102538959.jpg) no-repeat left top; LEFT: 609px
+}
+.pmgBusinessModQuarter {
+	WIDTH: 195px; PADDING-RIGHT: 35px; FLOAT: left
+}
+.pmgBusinessModQuarterHeaders {
+	FONT: 1.4em "Segoe UI Light", sans-serif
+}
+#pmgBusinessQuarterBoxes UL {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: normal; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; PADDING-TOP: 5px
+}
+#pmgBusinessQuarterBoxes LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+#pmgBusinessQuarterBoxes .pmgBusinessModQuarterTail {
+	PADDING-RIGHT: 0px
+}
+#pmgBusinessContent {
+	FONT-FAMILY: "Segoe UI", sans-serif
+}
+.pmgBusinessTabbedText {
+	FONT-FAMILY: "Segoe UI", sans-serif
+}
+#pmgGlobalTabContent H2 {
+	FONT-FAMILY: "Segoe UI", sans-serif
+}
+.pmgBusinessCarouselHeader {
+	FONT-FAMILY: "Segoe UI", sans-serif
+}
+#pmgBusinessHipHop {
+	MARGIN-TOP: 40px; OVERFLOW: hidden
+}
+#pmgBusinessThirdBoxes {
+	MARGIN-TOP: 40px; OVERFLOW: hidden
+}
+#pmgBusinessQuarterBoxes {
+	MARGIN-TOP: 40px; OVERFLOW: hidden
+}
+#pmgBizVidOneContent {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px
+}
+#pmgBizVidTwoContent {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px
+}
+#pmgBizVidThreeContent {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px
+}
+#pmgBizVidFourContent {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px
+}
+#pmgBizVidFiveContent {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px
+}
+#pmgBizVidSixContent {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px
+}
+#pmgBizVidSevenContent {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px
+}
+#pmgProductsSMmodule {
+	POSITION: relative; WIDTH: 500px; MARGIN-LEFT: 60px; TOP: -20px
+}
+#pmgProductsSMmodule A:link {
+	COLOR: #4685df
+}
+#pmgProductsSMmodule A:visited {
+	COLOR: #4685df
+}
+.pmgProductsSMHeader {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT: 1.33em "Segoe UI", Arial, Verdana, sans-serif; COLOR: #454545; PADDING-TOP: 0px
+}
+.pmgProductsSMcols {
+	WIDTH: 140px; FLOAT: left; HEIGHT: 50px; FONT-SIZE: 1.2em; PADDING-TOP: 20px
+}
+.pmgProductsSMcols IMG {
+	PADDING-RIGHT: 5px
+}
+#pmgProductsSMfbcol {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 150px; PADDING-RIGHT: 10px; HEIGHT: 60px; FONT-SIZE: 1em; PADDING-TOP: 10px
+}
+.pmgProductsSMfb {
+	PADDING-BOTTOM: 5px; FONT-SIZE: 1.25em
+}
+.pmgProductsSMvcenter {
+	VERTICAL-ALIGN: middle
+}
+.pmgProductsSMclear {
+	CLEAR: left
+}
+#pmgOutlookMM {
+	MARGIN: auto; WIDTH: 940px
+}
+.pmgOutlookMMTopCnt {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 55px; PADDING-RIGHT: 55px; FLOAT: left; PADDING-TOP: 0px
+}
+.pmgOutlookMMLftCnt {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 550px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 20px
+}
+.pmgOutlookMMIcon {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 15px; FLOAT: left; PADDING-TOP: 0px
+}
+.pmgOutlookMMTxt {
+	WIDTH: 350px; FONT-FAMILY: Segoe UI; FLOAT: left; COLOR: #000000
+}
+#pmgOutlookMM H1 {
+	LINE-HEIGHT: 0.8em; MARGIN: 0px; FONT-SIZE: 4.2em; FONT-WEIGHT: normal
+}
+.pmgOutlookMMSubHdl {
+	FONT-SIZE: 0.47em
+}
+.pmgOutlookMMSubHdl SPAN {
+	FONT-FAMILY: Segoe UI Light
+}
+.pmgOutlookMMIntro {
+	WIDTH: 100%; FONT-FAMILY: Segoe UI; FLOAT: left; FONT-SIZE: 1.2em
+}
+.pmgOutlookMMBtn {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.pmgOutlookMMRhtCnt {
+	PADDING-BOTTOM: 9px; PADDING-LEFT: 0px; WIDTH: 280px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 0px
+}
+.pmgOutlookMMCal {
+	MARGIN: 0px 35px
+}
+.pmgOutlookMMLearnMore {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: 10px; PADDING-LEFT: 55px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pmgOutlookMMBasketball {
+	FLOAT: right
+}
+.pmgOutlookMMBM {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.pmgOutlookMMFB {
+	FLOAT: right
+}
+#pmgSEOBody {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 20px; WIDTH: 900px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+#pmgSEOBody .cntHCMTitle {
+	WIDTH: 201px; MARGIN-BOTTOM: 0px; FONT-SIZE: 1.25em
+}
+.pmgSEOContentRow {
+	MARGIN-BOTTOM: 25px; CLEAR: left; OVERFLOW: auto
+}
+.pmgSEOContentCol {
+	WIDTH: 33%; FLOAT: left
+}
+.pmgSEOConetntColImg {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 75px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 0px
+}
+.pmgSEOContentColText {
+	WIDTH: 180px; FLOAT: left
+}
+.pmgWordDoISM {
+	WIDTH: 935px; HEIGHT: 35px
+}
+#pmgWordDoIFooter {
+	MARGIN-LEFT: 60px; FONT-SIZE: 1.25em
+}
+.pmgWordDoIFooter {
+	WIDTH: 530px; DISPLAY: inline-block
+}
+#pmgWordDoIFooter .pmgWordDoIFooterTxt {
+	TEXT-ALIGN: right; WIDTH: 285px
+}
+#pmgWord {
+	MARGIN: auto; WIDTH: 821px; OVERFLOW: hidden
+}
+#pmgWordHero {
+	MARGIN-TOP: 26px; MARGIN-BOTTOM: 15px
+}
+#pmgWord H2 {
+	LINE-HEIGHT: 1em; FONT-FAMILY: Segoe UI; COLOR: #a29490
+}
+.pmgWordLnkStrip {
+	WIDTH: 821px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/460/026/ZA102585992.jpg) no-repeat; HEIGHT: 38px
+}
+.pmgWordLnkStripCnt {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 30px; WIDTH: 760px; PADDING-RIGHT: 30px; FONT-FAMILY: Segoe UI; HEIGHT: 38px; COLOR: #0066b3; FONT-SIZE: 1.2em; FONT-WEIGHT: bold; PADDING-TOP: 9px
+}
+.pmgWordLnkStripLft {
+	WIDTH: 30%; FLOAT: left
+}
+.pmgWordLnkStripMdl {
+	WIDTH: 36%; FLOAT: left
+}
+.pmgWordLnkStripRht {
+	WIDTH: 34%; FLOAT: left
+}
+#pmgWordLnkStripLftCnt {
+	PADDING-LEFT: 55px; WIDTH: 125px; FLOAT: left
+}
+#pmgWordLnkStripMdlCnt {
+	PADDING-LEFT: 60px; WIDTH: 165px; FLOAT: left
+}
+#pmgWordLnkStripRhtCnt {
+	PADDING-LEFT: 55px; WIDTH: 125px; FLOAT: left
+}
+.pmgWordBtmCnt {
+	WIDTH: 100%; FLOAT: left
+}
+#pmgWordBtmCntLft {
+	MARGIN: 20px 0px 0px; WIDTH: 66%; FLOAT: left
+}
+.pmgWordBtmCntLnkVid {
+	MARGIN-TOP: 30px; WIDTH: 542px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/997/639/ZA102585711.jpg) no-repeat; HEIGHT: 219px
+}
+.pmgWordBtmCntLnk {
+	PADDING-LEFT: 35px; WIDTH: 235px; FLOAT: left; PADDING-TOP: 20px
+}
+#pmgWordHeaderRht {
+	MARGIN-LEFT: 28px
+}
+#pmgWord H3 {
+	FONT-FAMILY: Segoe UI; COLOR: #a29490
+}
+#pmgWord H2 SPAN {
+	COLOR: #0066b3
+}
+#pmgWord UL {
+	PADDING-LEFT: 15px; FONT-FAMILY: Segoe UI; FONT-SIZE: 1em; PADDING-TOP: 16px
+}
+.pmgWordBtmCntRht50 {
+	PADDING-LEFT: 20px; FLOAT: left; PADDING-TOP: 20px
+}
+#pmgDemoImageWord A {
+	WIDTH: 166px; DISPLAY: block; BACKGROUND: url(http://officecms/sites/preview/en-us/files/377/473/ZA102585638.jpg) no-repeat left top; HEIGHT: 128px
+}
+.pmgWordBtmCntVid {
+	PADDING-LEFT: 25px; FLOAT: left; PADDING-TOP: 16px
+}
+#pmgDemoImageWord A:hover {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/377/473/ZA102585638.jpg) no-repeat right top
+}
+.pmgBtmCntRht {
+	MARGIN: 40px 0px 0px; PADDING-LEFT: 50px; WIDTH: 225px; FLOAT: left
+}
+.pmgWordLnkStripCnt A {
+	COLOR: #0066b3
+}
+#pmgWordHeaderFBTxt {
+	WIDTH: 173px
+}
+#questionAnswers UL {
+	PADDING-LEFT: 0px
+}
+.pmgWordQuizCtrl {
+	WIDTH: 215px
+}
+#questionAnswers {
+	POSITION: relative; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+#questionAnswers #statusMsg {
+	POSITION: relative; DISPLAY: none; TOP: 0px; LEFT: 0px
+}
+.pmgQuizContainer {
+	LIST-STYLE-TYPE: none
+}
+.pmgQuizRadio {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: 3px; PADDING-LEFT: 0px; WIDTH: 12px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(http://officecms/sites/preview/en-us/files/733/836/ZA102594532.jpg) no-repeat 0px 0px; FLOAT: left; HEIGHT: 12px; CLEAR: left; PADDING-TOP: 0px
+}
+.pmgQuizRadioSelected {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/728/965/ZA102594560.jpg) no-repeat 0px 0px
+}
+.pmgQuizRadioMousedown {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/918/071/ZA102594507.jpg) no-repeat 0px 0px
+}
+INPUT.pmgQuizStyled {
+	DISPLAY: none
+}
+#pmgWordBtnSubmit {
+	MARGIN: 15px 0px 0px 38px; CURSOR: pointer
+}
+A.pmgRadioContentClass {
+	PADDING-BOTTOM: 25px; WIDTH: 198px; FLOAT: left; COLOR: #0066b3; TEXT-DECORATION: none
+}
+A.pmgQuizRadio {
+	OUTLINE-STYLE: none; OUTLINE-WIDTH: 0px
+}
+.pmgWordQuestion {
+	FONT-FAMILY: Segoe UI; COLOR: #a29490; FONT-SIZE: 1em
+}
+.pmgWordHotSpotContent {
+	Z-INDEX: 9999; POSITION: absolute; PADDING-BOTTOM: 10px; BACKGROUND-COLOR: transparent; PADDING-LEFT: 20px; WIDTH: 310px; PADDING-RIGHT: 40px; DISPLAY: none; COLOR: white; FONT-SIZE: 14px; PADDING-TOP: 20px
+}
+.pmgWordHotspots {
+	Z-INDEX: -1; POSITION: absolute; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: transparent; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; VISIBILITY: hidden; PADDING-TOP: 1px
+}
+#pmgWordHotSpotsContent {
+	BACKGROUND-IMAGE: url(http://officecms/sites/preview/en-us/files/455/607/ZA102595487.jpg); Z-INDEX: 9999; POSITION: relative; MARGIN: 0px 0px -381px 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 856px
+}
+#pmgWordHotSpotsContent A {
+	COLOR: #0066cc; TEXT-DECORATION: none
+}
+.pmghscontent1 {
+	WIDTH: 264px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/504/957/ZA102601011.gif) no-repeat; HEIGHT: 125px
+}
+.pmghscontent2 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; WIDTH: 230px; PADDING-RIGHT: 0px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/445/883/ZA102601012.gif) no-repeat; HEIGHT: 85px; PADDING-TOP: 30px
+}
+.pmghscontent3 {
+	PADDING-BOTTOM: 35px; PADDING-LEFT: 15px; WIDTH: 290px; PADDING-RIGHT: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/721/322/ZA102601020.gif) no-repeat; PADDING-TOP: 15px
+}
+.pmghscontent4 {
+	WIDTH: 286px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/888/864/ZA102601017.gif) no-repeat; HEIGHT: 153px; PADDING-TOP: 10px
+}
+.pmghscontent5 {
+	WIDTH: 259px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/450/665/ZA102601010.gif) no-repeat; HEIGHT: 100px
+}
+.pmghscontent6 {
+	PADDING-BOTTOM: 35px; PADDING-LEFT: 35px; WIDTH: 294px; PADDING-RIGHT: 10px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/080/766/ZA102601019.gif) no-repeat; PADDING-TOP: 5px
+}
+.pmghscontent7 {
+	BACKGROUND: url(http://officecms/sites/preview/en-us/files/474/992/ZA102601018.gif) no-repeat; HEIGHT: 152px; PADDING-TOP: 20px
+}
+.pmghscontent1 SPAN {
+	POSITION: absolute; TOP: -50px; LEFT: -7px
+}
+.pmghscontent3 SPAN {
+	POSITION: absolute; TOP: -48px; LEFT: 275px
+}
+.pmghscontent5 SPAN {
+	POSITION: absolute; TOP: -46px; LEFT: -15px
+}
+.PmgWordHSToc {
+	Z-INDEX: 10000; POSITION: relative; WIDTH: 280px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/999/258/ZA102595475.png) no-repeat; HEIGHT: 400px; TOP: -283px; PADDING-TOP: 5px; LEFT: 650px
+}
+.PmgWordHSToc DIV {
+	MARGIN-TOP: 32px; FONT-FAMILY: Segoe UI Semibold; FONT-SIZE: 14px
+}
+.PmgWordHSToc A {
+	COLOR: white; TEXT-DECORATION: none
+}
+.PmgWordHSToc UL A {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px -27px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 27px; OUTLINE-WIDTH: medium; PADDING-RIGHT: 0px; COLOR: #ffc20e; FONT-SIZE: 12px; PADDING-TOP: 10px
+}
+.PmgWordHSToc UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px -27px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 27px; OUTLINE-WIDTH: medium; PADDING-RIGHT: 0px; COLOR: #ffc20e; FONT-SIZE: 12px; PADDING-TOP: 10px
+}
+.PmgWordHSToc LI {
+	LIST-STYLE-TYPE: none
+}
+.PmgWordHSToc UL LI {
+	MARGIN: 0px 4px 5px 0px
+}
+.pmgWordsubfeatureselected {
+	BACKGROUND-COLOR: #fca822
+}
+.pmgWordfeatureselected {
+	BACKGROUND-COLOR: #fca822
+}
+.pmgWordsubfeatureselected SPAN A {
+	COLOR: black
+}
+.PmgWordHSToc DIV SPAN {
+	PADDING-LEFT: 17px; DISPLAY: block; MARGIN-RIGHT: 4px
+}
+#pmgWordCollab {
+	MARGIN: 0px 0px 20px 55px
+}
+#pmgWordCollab H1 {
+	FONT-FAMILY: Segoe UI Light; COLOR: #a29490; FONT-SIZE: 2em
+}
+#pmgWordCollab H2 {
+	FONT-FAMILY: Segoe UI; COLOR: #58595b; FONT-SIZE: 1.1em
+}
+#pmgWordCollab #pmgGlobalHeader {
+	PADDING-BOTTOM: 20px
+}
+#pmgExcelEmbedPage {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 59px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: "Segoe UI", Verdana, sans-serif; PADDING-TOP: 0px
+}
+#pmgExcelEmbedHeader {
+	WIDTH: 100%; HEIGHT: 65px
+}
+#pmgExcelEmbedHeader H1 {
+	FONT-SIZE: 1.9em; FONT-WEIGHT: normal; PADDING-TOP: 5px
+}
+.pmgExcelEmbedHeaderContent {
+	WIDTH: 255px; FLOAT: right
+}
+.pmgExcelEmbedHeaderContent DIV {
+	FLOAT: left
+}
+.pmgExcelEmbedHeaderContentFB {
+	TEXT-ALIGN: right; PADDING-RIGHT: 10px; COLOR: #58595b; FONT-SIZE: 13px
+}
+.pmgExcelEmbedHeaderContentPad {
+	PADDING-TOP: 4px
+}
+.pmgExcelEmbedHeaderText {
+	CLEAR: right
+}
+.pmgExcelEmbedText {
+	LINE-HEIGHT: 1.2em; WIDTH: 754px; FLOAT: left; COLOR: #58595b; FONT-SIZE: 1.2em
+}
+.pmgExcelEmbedIcon {
+	WIDTH: 40px; FLOAT: left; PADDING-TOP: 3px
+}
+#pmgExcelEmbedHeader .pmgGlobalInlineIconHeader {
+	WIDTH: 500px
+}
+.pmgExcelEmbedMailIcon {
+	BORDER-LEFT: #f2f3f3 1px solid; PADDING-LEFT: 13px; WIDTH: 36px; FLOAT: left; HEIGHT: 30px
+}
+#pmgExcelEmbedDeck {
+	FONT-SIZE: 1.2em
+}
+.pmgExcelEmbedTabs {
+	POSITION: relative; HEIGHT: 47px; PADDING-TOP: 24px
+}
+.pmgExcelEmbedTabs DIV {
+	POSITION: absolute; BOTTOM: -1px; HEIGHT: 47px; pointer: cursor
+}
+.pmgExcelEmbedTabs A {
+	WIDTH: 100%; DISPLAY: block; HEIGHT: 100%
+}
+.pmgExcelEmbedTabsLabel {
+	POSITION: relative; TOP: 10px; LEFT: 20px
+}
+.pmgExcelEmbedTab1 {
+	Z-INDEX: 1; LEFT: 15px
+}
+.pmgExcelEmbedTab2 {
+	Z-INDEX: 1; LEFT: 278px
+}
+.pmgExcelEmbedTab3 {
+	Z-INDEX: 3; LEFT: 541px
+}
+.pmgExcelEmbedTabsText DIV {
+	FONT: 18px "Segoe UI Semibold", sans-serif
+}
+.pmgExcelEmbedTabsGray {
+	WIDTH: 257px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/660/035/ZA102601086.png) no-repeat left top
+}
+.pmgExcelEmbedTabsGreen {
+	WIDTH: 248px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/095/943/ZA102601084.png) no-repeat left top
+}
+.pmgExcelEmbedDeckDivider {
+	Z-INDEX: 2; POSITION: relative; BORDER-LEFT: #b8c3c7 1px solid; BACKGROUND-COLOR: #7abd42; HEIGHT: 5px; BORDER-TOP: #b8c3c7 1px solid; BORDER-RIGHT: #b8c3c7 1px solid
+}
+.pmgExcelEmbedDeckContent {
+	BORDER-BOTTOM: #b8c3c7 1px solid; POSITION: relative; BORDER-LEFT: #b8c3c7 1px solid; BACKGROUND-COLOR: #f2f3f3; HEIGHT: 680px; BORDER-RIGHT: #b8c3c7 1px solid
+}
+.pmgExcelEmbedDeckActive {
+	COLOR: #fff
+}
+.pmgExcelEmbedDeckInactive A:link {
+	COLOR: #58595b; TEXT-DECORATION: none
+}
+.pmgExcelEmbedDeckInactive A:active {
+	COLOR: #58595b; TEXT-DECORATION: none
+}
+.pmgExcelEmbedDeckInactive A:visited {
+	COLOR: #58595b; TEXT-DECORATION: none
+}
+.pmgExcelEmbedDeckInactive A:hover {
+	COLOR: #58595b; TEXT-DECORATION: none
+}
+.pmgExcelEmbedIcons {
+	POSITION: absolute; WIDTH: 320px; BOTTOM: 40px; LEFT: 469px
+}
+.pmgExcelEmbedIconsImg {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; FLOAT: left; VERTICAL-ALIGN: top; PADDING-TOP: 5px
+}
+.pmgExcelEmbedIconsTxt {
+	WIDTH: 270px; FLOAT: left
+}
+.pmgExcelEmbedIconsDivider {
+	PADDING-BOTTOM: 5px
+}
+#pmgExcelEmbedSteps {
+	WIDTH: 821px; PADDING-TOP: 30px
+}
+.pmgExcelEmbedSteps {
+	HEIGHT: 12px
+}
+#pmgExcelEmbedSteps P {
+	LINE-HEIGHT: 1.5em; MARGIN: 10px 0px; FONT-SIZE: 1em
+}
+#pmgExcelEmbedSteps H2 {
+	FONT: 1.4em "Segoe UI Light", sans-serif
+}
+#pmgExcelEmbedSteps H2 STRONG {
+	FONT-FAMILY: "Segoe UI Semibold", sans-serif
+}
+.pmgExcelEmbedStepsBG {
+	BORDER-LEFT: #b8c3c7 1px solid; WIDTH: 819px; BACKGROUND: url(http://officecms/sites/preview/en-us/files/090/609/ZA102601088.png) repeat-y left top; BORDER-RIGHT: #b8c3c7 1px solid
+}
+.pmgExcelEmbedStepsContent {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; PADDING-TOP: 10px
+}
+.pmgExcelEmbedStepsTxt {
+	WIDTH: 369px; FLOAT: left
+}
+.pmgExcelEmbedStepsTxtPad {
+	PADDING-RIGHT: 20px
+}
+.pmgExcelEmbedModule {
+	OVERFLOW: auto
+}

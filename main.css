@@ -1,0 +1,180 @@
+﻿@import url('layout.css');
+
+body {
+	margin: 4px 0 0 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	background-color: gray; 
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+#container {
+	width: 750px;
+	margin: auto;
+	display: block;
+	background-color: white;
+	}
+	
+#masthead {
+	background-position: center;
+	width: 750px; 
+	background-color: white;
+	height: 105px;
+	background-image: url('images/IAAB_header.png');
+}
+
+#main {
+	width: 750px;
+	margin: auto;
+	display: block;
+	min-height: 600px;
+	background-image: url('images/main-background.jpg');
+	background-repeat: repeat-y;
+	height: auto;
+}
+
+#left-column {
+
+	background-image: url('images/menu_background.jpg') ;
+	float: left;
+	width: 200px;
+	margin: 0;
+	padding: 0;
+	height: 400px;
+}
+
+
+#right-column {
+	width: 550px;
+	background-color: white;
+
+	float:right;
+	height:auto;
+}
+
+#content {
+	background: none transparent scroll repeat 0% 0%;
+	background-color: white;
+	float: none;
+	position: relative;
+	width: 515px;
+	padding: 0 15px 20px 20px;
+	
+	vertical-align: top;
+}
+
+#content p {
+padding: 0;
+margin: 0;
+}
+
+#content p.term {
+	margin: .9em 0 0 0;
+}
+
+#content p.def {
+	margin: 0 0 0 1.5em;
+}
+
+/* Masthead Styles */
+#masthead-image-left {
+	float: left;
+	margin-left: 10px;
+	clear: none;
+	margin-right: 10px;
+}
+#masthead-image-right {
+	float: right;
+	clear: none;
+}
+#img.floatright {
+	float:right;
+}
+
+.links {
+	text-indent: 2em;
+	padding-bottom: 0;
+	padding-top: 0;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+/* Left Column and Menu Styles */
+#left-column p {
+	padding:0;
+	margin: 0 0 0 10;
+}
+#menu {
+	padding: 0;
+	margin: .5em 0 0 0;
+	background: transparent;
+	width: 200px;
+	margin-top: .9em;
+}
+
+#menu hr {
+	margin: 1.2em 0 .8em 0;
+}
+#menu p {
+	margin: 2px 0 0 0;
+	padding: 0;
+	text-indent: 1.5em;
+}
+#menu p.header {
+	padding: 6px 0 0 0;
+	font-weight: bold;
+}
+
+
+#menu a {
+	color: black;
+	text-decoration: none;
+	display: block;
+	border: 1px transparent solid;
+	
+}
+
+#meunu a:focus {
+color: white;
+	text-decoration: none;
+	border: 1px solid #ed6c13;
+	background-color: #ed6c13;
+
+	
+}
+#menu a:hover {
+	color: white;
+	text-decoration: none;
+	border: 1px solid #ed6c13; 
+	background-color:#ed6c13 ;
+}
+/* Content Styles */
+#content h1,h2,h3,h4,h5,h6 {
+	color: black;
+}
+.listintro {
+	padding-bottom: 0px;
+	margin-bottom: 5px;
+}
+#content img {
+	padding: 0;
+}
+/* Footer Styles */
+#footer p {
+	color: #808080;
+	margin-top: 5px;
+}
+
+a:visited {
+	color: #5F8EA9
+}
+a {
+	color: #003366;
+	text-decoration: none;
+}
+a:hover {
+
+	color: #ed6c13;
+	text-decoration: underline;
+}
+
